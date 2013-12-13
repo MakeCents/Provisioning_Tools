@@ -1,5 +1,9 @@
 import sys
+import os
 sys.path.insert(0,'lib')
+
+l = [x for x in os.listdir(os.getcwd()) if x[-4:] == '.036']
+l.insert(0, "Not here")
 
 #This would be done first, before this module.
 import LOAD
@@ -15,9 +19,10 @@ CPN = ""
 Cal_NHA = []
 
 #Load will return a list from file 
-load = LOAD.Load()
-lines = load[0]
-originalFile = load[1]
+#load = LOAD.Load()
+answers = LOAD.loadNames(l)
+lines = answers[0]
+originalFile = answers[1]
 
 def cal_QEI(line):
     '''C card line from 036 report
