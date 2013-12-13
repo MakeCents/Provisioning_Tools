@@ -8,11 +8,23 @@ import PLISNS
 import SAP
 import QTY
 import QEI
+from LINE import *
+import DIFFERENCE
+
+CPN = ""
+Cal_NHA = []
 
 #Load will return a list from file 
-lines = LOAD.Load()
-     
+load = LOAD.Load()
+lines = load[0]
+originalFile = load[1]
+
 def cal_QEI(line):
+    '''C card line from 036 report
+        Takes a C card from the 036 report, 
+        extracts the Qty and calculates the QEI
+        and adds it to the over all QEI of that cpn
+    '''
     QEI =  1
     plisn = line[6:11].strip()
     while NHA.NHA[plisn] != '':
@@ -20,18 +32,40 @@ def cal_QEI(line):
         plisn = NHA.NHA[plisn]
     return QEI
 
+def Ind_NHA(ind, bool=True):
+    global Cal_NHA
+    last = NHA.IND[Cal_NHA[-1]]
+    if last >= ind: 
+        Cal_NHA.pop()
+        return Ind_NHA(ind, False)
+    else:
+        nha = Cal_NHA[-1]
+        return (nha + (" " * (5-len(nha))), True)
+
 def fixline(line):
+    '''line from the 036 report
+        Takes any line form the 036 report and 
+        decides what to do with it due to calculations
+    '''
     plisn = line[6:11].strip()
     if line[-4:-1] == '01C':
         if SAP.SAP[plisn] == "":
-            qei = str(QEI.QEI[cpn])
+            qei = str(QEI.QEI[CPN])
             qei = "0"*(5-len(qei))+qei
         else:
             if plisn in NHA.AllNHA:
                 qei = 'REFX '
             else:
                 qei = 'REF  '
-        line = line[:25] + qei + line[30:]
+        ind = NHA.IND[plisn]
+        if ind == 'A' or ind == None:
+            nha = ("     ", True)
+        else:
+            nha = Ind_NHA(ind) 
+        if nha[1]:
+            
+            addCal_NHA(plisn)
+        line = line[:12] + nha[0] + line[17:25] + qei + line[30:59] +  SAP.get(CPN, plisn) + line[64:]
     return line
 
 for line in lines:
@@ -42,6 +76,7 @@ for line in lines:
             cpn = line[13:50].strip()
             PLISNS.add(plisn)
             SAP.pp(cpn,plisn)
+            NHA.ind(line[12], plisn)
         elif line[-4:-1] == '01C':
             nha = line[12:17].strip()
             sap = line[59:64].strip()
@@ -53,11 +88,19 @@ for line in lines:
             qei = cal_QEI(line)
             QEI.add(cpn, qei)
                
+def addCal_NHA(plisn):
+    global Cal_NHA
+    if plisn == None:
+        pass
+    elif Cal_NHA==[]:
+        Cal_NHA.append(plisn)
+    elif plisn != Cal_NHA[-1]:
+        Cal_NHA.append(plisn)
+
 newlines = []
 for line in lines:
-    global cpn
-    if line[-4:-1] == '01A':
-        cpn = line[13:50].strip()
+    global CPN
+    CPN = get_cpn(line, CPN)
     newlines.append(fixline(line))
 
 
@@ -65,5 +108,6 @@ for line in lines:
 #PLISNS.PLISNS
 
 ##Writes each item in list without '\n' after
-LOAD.Write(newlines)
+newFile = LOAD.Write(newlines)
 
+DIFFERENCE.Difference(originalFile, newFile)

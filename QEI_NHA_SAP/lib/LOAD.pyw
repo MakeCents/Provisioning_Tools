@@ -8,7 +8,7 @@ def Load():
                         if '.036' not in fName and '.txt' not in fName:
                                 fName+='.036'
                         with open(fName, 'r') as Input:
-                               return Input.readlines()
+                               return Input.readlines(), fName
                         error = False
                 except:
                         print fName + " not found."
@@ -31,3 +31,4 @@ def Write(writeList):
                         print fName + " not found."
                         fName = str(raw_input("What is the file name?  "))
 
+        return fName
