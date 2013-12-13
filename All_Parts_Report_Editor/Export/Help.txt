@@ -1,0 +1,12 @@
+Word:
+	This will be designed to be able to open Word table templates and save over or create files for referencing
+		to main documents.
+	
+	The files will need set up initally, not the figures, but the files that reference the figures, i.e. group
+		names and numbers and the outline to reference to the figures.
+
+SGML:
+	Figure tables will be written from Excel.
+
+	I have SGML tools in the existing PMD set that will be incorporated into All_Parts after it is working that
+		will automate the file referencing and set up, but for now they will be manually set up.

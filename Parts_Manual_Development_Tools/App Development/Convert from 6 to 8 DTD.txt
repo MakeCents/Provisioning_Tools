@@ -1,0 +1,13 @@
+These instructions will assist in converting DTDs by finding and replacing tags as necessary, using the APP.
+This will fix tagging throughout, and remove sgm references and cgm references that don't exist from the declarations.
+	- The tool finds and replaces tags based on the text file. Changes can be made to that file in order to modify this tool.
+
+
+1. Add file names to convert and text file name to convert with.
+	a. Enter the name with ".sgm" at the end.
+	b. Then a space, a colon, and a space.
+	c. Then a text file name will not have an extension.
+	Example: TO 35C2-3-474-11_single.sgm : TO-11
+2. After converting to a single file, put it in this folder and double-click the Tag_Convertor App.
+4. You will have a file with the word "New " in front of it.
+5. Open the file in Arbortext again and click the "Check Completness" button to verify everything is good.

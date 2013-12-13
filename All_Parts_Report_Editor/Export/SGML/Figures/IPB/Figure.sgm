@@ -1,0 +1,21 @@
+<!-- Fragment document type declaration subset:
+Arbortext, Inc., 1988-2009, v.4002
+<!DOCTYPE DOC PUBLIC "-//USA-DOD//DTD 38807C-AV6D0P0//EN">
+-->
+<?Pub CX doc(docipb(front()body(single(ipbforeword()pl(plgrp(figure()pl0tbl(>
+<?Pub Tag atict:info tracking="off" ref="0" print="" color=""><?Pub Tag
+atict:user user="dgillespie" fullname="David Gillespie" color="#8000FF"><pl0>
+<figureno></figureno>
+<figindex></figindex><partno></partno><cagecodes><cage></cage>
+</cagecodes><desc><nomen><plbrk></nomen></desc><units></units>
+<useoncode></useoncode><smrcodes><smrcode></smrcode></smrcodes></pl0><pl0>
+<figindex></figindex><partno></partno><cagecodes><cage></cage>
+</cagecodes><desc><nomen><plbrk></nomen></desc><units></units>
+<useoncode></useoncode><smrcodes><smrcode></smrcode></smrcodes>
+<pl1>
+<figindex></figindex><partno></partno><cagecodes><cage></cage>
+</cagecodes><desc><nomen><plbrk> (<xref xrefid="example">)</nomen>
+</desc><units></units><useoncode></useoncode><smrcodes><smrcode></smrcode>
+</smrcodes></pl1><?Pub Caret 14>
+</pl0>
+<?Pub *0000001061 0>

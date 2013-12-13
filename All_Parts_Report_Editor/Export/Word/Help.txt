@@ -1,0 +1,3 @@
+The IPB and RPSTL templates have examples of how to reference to a figure in an outline.
+This is how we will update the tables, and with a RPSTL we will use document properties to update
+the group numbers and names

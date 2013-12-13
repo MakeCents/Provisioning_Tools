@@ -1,0 +1,82 @@
+2-13-13 Conception
+
+D Gillespie
+- The information to follow is broken down by folder structure.
+- All tools and worksheets writtin in Excel 2007.
+- PMD Tools\Communication\Figure Source is saved as a Excel 2003 for other user purposes.
+
+'==================================================================================================
+========Definition of each tool in the PMD Tools set:========
+'==================================================================================================
+*PMD Tools\
+PMD Utility - Used to control all the tools.
+
+SDFP Calculator - Used to import information from a folder(s) and compare it to the 036 to 
+	Spreadsheet Tool, and return diferences in naming and PLISNs, and move and/or rename files.
+
+'==================================================================================================
+*PMD Tools\Communication\
+036 to Spreadsheet - Used to convert 036 to spreasheet back to 036 report. 
+	- Cage Codes for Arbortext are ran from this file. 
+	- PMD Filter is linked to this file.
+
+PMD Filter - This file is where you adjust your programs specific conditions.
+	- How many figures is figured out by a set of formulas and may be modified to 
+		automatically adjust by modifying formulas in a few columns.
+	- Seperation of text and casing is figured out by a set of formulas with input for 
+		manipulation on the Digits sheet.
+
+Figure Source - Used to create each figure's comunication workbook.
+	- Sheet and not illustrated information is added by the illustrator here.
+	- If csv files are used;
+		- Used to create the csv files for Corel. (PMD Tools\Communication\CSV Files
+		- Used for the illustrator to get the reference number
+	- Future changes may incorporate f-id numbers for Arbortext tagging automation.
+
+PMD Source - Used to consolidate all the communication figures and the PMD Filter.
+	- PMD IPB Template links to this
+
+PMD IPB Template - Used to make an IPB.
+	- Has a seciton to be copied to Word.
+	- Will write Arbortext files.
+
+'==================================================================================================
+*Arbortext Tools\
+CAGE Codes - Used to write the tables in Arbortext for Cage Codes in Alpha-Numeric order
+
+IPB Outlin Arbortext Development - Used to write an entire outline for an IPB in Arbortext with
+	references to a PMD Tools\SGML\Table Tags folder where the tables will be written.
+	- If Table Tags folder does not exist it will make it.
+	- It will determine the amount of Figures to write based on the PMD Filter or your input.
+	- All files and referencing is written except for Figures.
+	- TO number is required to write the files, or some equivalant variable for unique naming.
+
+'==================================================================================================
+*Databases\
+Cage Codes - Stores all the propperly formatted Cage Codes information that the other tools use.
+
+'==================================================================================================
+*PLISN\
+Universal PLIN'er - Will calculate PLISN gaps or initial PLISN'ing for you with input for gap
+	and some possible error detection.
+
+PLISN to LCN indenture compare - Compares the inenture level copied from PowerLog for the LCNs
+	and the PLISNs.
+
+'==================================================================================================
+*Reports\
+There are no tools here, just Program folders with reports in them.
+	- Each program has a folder and is checked out together for resource purposes.
+	- Each unique file inside, 036 or PTD, is named the PCCN of the program.
+	- Other duplicate file types will have definition added to name following the PCCN.
+
+'==================================================================================================
+*Resources\
+036 Place Definitions - Gives the definition of each place in an 036 report.
+
+SMR calculator - Will walk you through a set of questions and tell you the SMR code.
+
+LCN Initial Calculator - Paste indenture in the 1st column and it will calculate the LCNs based
+	on the structure you input in the 2nd row and the gap indicated in the first row.
+
+Tables in Powerlog - Gives you multiple ways of looking at powerlog tables and the information.

@@ -1,0 +1,327 @@
+6/18/2013 9:17:45 AM 
+W9E215AAAA1 A44940A046S192                        32  1GENERATOR SET,     0  01A
+W9E215AAAA1          00010000100000001                                       01C
+W9E215AAAA1 B                                                                01D
+W9E215AAAA1 A                 00DIESEL ENGINE,TRAILER MOUNTED                01H
+W9E215AAAJ1 B44940A046P449                        32   TRAILER,           9  01A
+W9E215AAAJ1 AAAA N001000100001                                               01C
+W9E215AAAJ1 B                                                                01D
+W9E215AAAJ1 AAA               00INSTALLATION                                 01H
+W9E215AARM1 C44940A046P451                        32   INSTALLATION,BRAKE 9  01A
+W9E215AARM1 AAAJ N00500010000100000060                                       01C
+W9E215AARM1 B                                                                01D
+W9E215AARM1 AAAAC             00LINE                                         01H
+W9E215AA1G1 C44940A046P453                        32   INSTALLATION,      9  01A
+W9E215AA1G1 AAAJ N010000100001                                               01C
+W9E215AA1G1 B                                                                01D
+W9E215AA1G1 AAAAE             00RUNNING GEAR                                 01H
+W9E215AA451 D44940A046P455                        32   AXLE ASSEMBLY,     9  01A
+W9E215AA451 AA1G N00500010000100000060                                       01C
+W9E215AA451 B                                                                01D
+W9E215AA451 AAAAEAW           00VEHICULAR,NONDRIVING                         01H
+W9E215ABF81 E44940A046P466                        32  7WHEEL,PNEUMATIC    0  01A
+W9E215ABF81 AA45 N00100020000400000060                                       01C
+W9E215ABF81 B                                                                01D
+W9E215ABF81 AAAAEAWBK         00TIRE                                         01H
+W9E215ABGJ1 F44940A046P469                        32  7RIM,WHEEL,PNEUMATIC0  01A
+W9E215ABGJ1 ABF8 N00100010000400000060                                       01C
+W9E215ABGJ1 B                                                                01D
+W9E215ABGJ1 AAAAEAWBKAA       00TIRE                                         01H
+W9E215ABYV1 E44940A046P409                        32  7LABEL              0  01A
+W9E215ABYV1 AA45 N10000010000100000060                                       01C
+W9E215ABYV1 B                                                                01D
+W9E215ABYV1 AAAAEAWBW         00                                             01H
+W9E215ABY51 D44940A046P457                        32  7AXLE ASSEMBLY,     0  01A
+W9E215ABY51 AA1G N00500010000100000060                                       01C
+W9E215ABY51 B                                                                01D
+W9E215ABY51 AAAAEAY           00VEHICULAR,NONDRIVING                         01H
+W9E215ACNJ1 E44940A046P466                        32  7WHEEL,PNEUMATIC    0  01A
+W9E215ACNJ1 AA45 N00100020000400000060                                       01C
+W9E215ACNJ1 B                                                                01D
+W9E215ACNJ1 AAAAEAWBK         00TIRE                                         01H
+W9E215ACN51 F44940A046P469                        32  7RIM,WHEEL,PNEUMATIC0  01A
+W9E215ACN51 ABF8 N00100010000400000060                                       01C
+W9E215ACN51 B                                                                01D
+W9E215ACN51 AAAAEAWBKAA       00TIRE                                         01H
+W9E215ACPH1 E44940A046P411                        32  7LABEL              0  01A
+W9E215ACPH1 ABY5 N10000010000100000060                                       01C
+W9E215ACPH1 B                                                                01D
+W9E215ACPH1 AAAAEAYAI         00                                             01H
+W9E215ACSC1 B44940A046P421                        32   ENCLOSURE,         9  01A
+W9E215ACSC1 AAAA N   000100001                                               01C
+W9E215ACSC1 B                                                                01D
+W9E215ACSC1 AAC               00INSTALLATION                                 01H
+W9E215AFKM1 C44940A030J246                        32  3PANEL,BODY,        0  01A
+W9E215AFKM1 ACPR N00500010000100000060                                       01C
+W9E215AFKM1 B                                                                01D
+W9E215AFKM1           9505                                             C     01E
+W9E215AFKM1 AACBW             00VEHICULAR                                    01H
+W9E215AFKX1 D44940A030J248                        32  3PANEL,BODY,        0  01A
+W9E215AFKX1 AFKM N00500010000100000060                                       01C
+W9E215AFKX1 B                                                                01D
+W9E215AFKX1                                                            A     01E
+W9E215AFKX1 AACBWAA           00VEHICULAR                                    01H
+W9E215AFQ51 C44940A046P423                        32  3PANEL,BODY,        0  01A
+W9E215AFQ51 ACPR N00500010000100000060                                       01C
+W9E215AFQ51 B                                                                01D
+W9E215AFQ51 AACCK             00VEHICULAR                                    01H
+W9E215AFQ52 D44940A035B012                             PANEL,ROOF            01A
+W9E215AFQ52 B                                                                01D
+W9E215AFQ52                                                                  01H
+W9E215AFQ53 E44940A031A135                             NUT,RIVET             01A
+W9E215AFQ53 B                                                                01D
+W9E215AFQ53                                                                  01H
+W9E215AFQ54 E44940A035B010                             PANEL,ROOF            01A
+W9E215AFQ54 B                                                                01D
+W9E215AFQ54                                                                  01H
+W9E215AFRG1 D44940A034Z431                        32  1PANEL,BODY,        0  01A
+W9E215AFRG1 AFQ5 N00300010000100000020                                       01C
+W9E215AFRG1 B                                                                01D
+W9E215AFRG1                                                            C     01E
+W9E215AFRG1 AACCKAA           00VEHICULAR                                    01H
+W9E215AFRR1 E44940A034Z429                        32  1FRAME SECTION,     0  01A
+W9E215AFRR1 AFRG N00300010000100000020                                       01C
+W9E215AFRR1 B                                                                01D
+W9E215AFRR1                                                            A     01E
+W9E215AFRR1 AACCKAAAA         00VEHICULAR                                    01H
+W9E215AFS01 D44940A046P433                        32  7DOOR,ACCESS,GENERAL0  01A
+W9E215AFS01 AFQ5 N01500010000100000060                                       01C
+W9E215AFS01 B                                                                01D
+W9E215AFS01 AACCKAG           00PURPOSE                                      01H
+W9E215AFS02 E44940A034J433                             BLOCK                 01A
+W9E215AFS02 B                                                                01D
+W9E215AFS02                                                                  01H
+W9E215AFS03 E44940A040L667                             SCREW,SOCKET HEAD     01A
+W9E215AFS03 B                                                                01D
+W9E215AFS03                                                                  01H
+W9E215AFTN1 E44940A034E800                        32  3NUT,SELF-LOCKING   0  01A
+W9E215AFTN1 AFS01N00400090000300000200                                       01C
+W9E215AFTN1 B                                                                01D
+W9E215AFTN1                                                            A     01E
+W9E215AFTN1 AACCKAGAB         00HEXAGON                                      01H
+W9E215AFY51 E44940A034J429                        32  3SUPPORT            0  01A
+W9E215AFY51 AFS0 N00300010000100000090                                       01C
+W9E215AFY51 B                                                                01D
+W9E215AFY51                                                            C     01E
+W9E215AFY51 AACCKAGBE         00                                             01H
+W9E215AF0P1 E44940A034N815                        32  3SUPPORT            0  01A
+W9E215AF0P1 AFS0 N00300010000100000090                                       01C
+W9E215AF0P1 B                                                                01D
+W9E215AF0P1                                                            C     01E
+W9E215AF0P1 AACCKAGBO         00                                             01H
+W9E215AF001 D44940A046P435                        32  7DOOR,ACCESS,GENERAL0  01A
+W9E215AF001 AFQ5 N01500010000100000060                                       01C
+W9E215AF001 B                                                                01D
+W9E215AF001 AACCKAI           00PURPOSE                                      01H
+W9E215AF002 E44940A034J433                             BLOCK                 01A
+W9E215AF002 B                                                                01D
+W9E215AF002                                                                  01H
+W9E215AF003 E44940A040L667                             SCREW,SOCKET HEAD     01A
+W9E215AF003 B                                                                01D
+W9E215AF003                                                                  01H
+W9E215AF1N1 E44940A034E800                        32  3NUT,SELF-LOCKING   0  01A
+W9E215AF1N1 AF001N0040007REF  00000200                     AFTN              01C
+W9E215AF1N1 B                                                                01D
+W9E215AF1N1                                                            A     01E
+W9E215AF1N1 AACCKAIAB         00HEXAGON                                      01H
+W9E215AF401 E44940A034J437                        32  3BRACKET,MOUNTING   0  01A
+W9E215AF401 AF001N00300020000200000060                                       01C
+W9E215AF401 B                                                                01D
+W9E215AF401                                                            A     01E
+W9E215AF401 AACCKAIAS         00                                             01H
+W9E215AF581 E44940A034J439                        32  3SUPPORT            0  01A
+W9E215AF581 AF001N00300020000200000090                                       01C
+W9E215AF581 B                                                                01D
+W9E215AF581                                                            C     01E
+W9E215AF581 AACCKAIBA         00                                             01H
+W9E215AF801 D44940A030F917                        32  3PANEL,BODY,        0  01A
+W9E215AF801 AFQ5 N00500010000100000060                                       01C
+W9E215AF801 B                                                                01D
+W9E215AF801           9505                                             C     01E
+W9E215AF801 AACCKAO           00VEHICULAR                                    01H
+W9E215AF9B1 E44940A030F919                        32  3PANEL,BODY,        0  01A
+W9E215AF9B1 AF80 N00500010000100000060                                       01C
+W9E215AF9B1 B                                                                01D
+W9E215AF9B1                                                            A     01E
+W9E215AF9B1 AACCKAOAA         00VEHICULAR                                    01H
+W9E215AF9X1 D44940A030G342                        32  1PANEL,BODY,        0  01A
+W9E215AF9X1 AFQ5 N00300010000100000020                                       01C
+W9E215AF9X1 B                                                                01D
+W9E215AF9X1           9505                                             C     01E
+W9E215AF9X1 AACCKAQ           00VEHICULAR                                    01H
+W9E215AF981 E44940A030G344                        32  1FRAME,STRUCTURAL,  0  01A
+W9E215AF981 AF9X N00300010000200000020                                       01C
+W9E215AF981 B                                                                01D
+W9E215AF981                                                            A     01E
+W9E215AF981 AACCKAQAA         00VEHICULAR                                    01H
+W9E215AGAU1 D44940A030G749                        32  3PANEL,BODY,        0  01A
+W9E215AGAU1 AFQ5 N00500010000100000060                                       01C
+W9E215AGAU1 B                                                                01D
+W9E215AGAU1           9505                                             C     01E
+W9E215AGAU1 AACCKAS           00VEHICULAR                                    01H
+W9E215AGA51 E44940A035A108                        32  3PANEL,BODY,        0  01A
+W9E215AGA51 AGAU N00500010000100000060                                       01C
+W9E215AGA51 B                                                                01D
+W9E215AGA51                                                            A     01E
+W9E215AGA51 AACCKASAA         00VEHICULAR                                    01H
+W9E215AGBR1 D44940A030G760                        32  3PANEL,BODY,        0  01A
+W9E215AGBR1 AFQ5 N00500010000100000060                                       01C
+W9E215AGBR1 B                                                                01D
+W9E215AGBR1           9505                                             C     01E
+W9E215AGBR1 AACCKAU           00VEHICULAR                                    01H
+W9E215AGB21 E44940A035A110                        32  3PANEL,BODY,        0  01A
+W9E215AGB21 AGBR N00500010000100000060                                       01C
+W9E215AGB21 B                                                                01D
+W9E215AGB21                                                            A     01E
+W9E215AGB21 AACCKAUAA         00VEHICULAR                                    01H
+W9E215AGCP1 D44940A030G764                        32  3PANEL,BODY,        0  01A
+W9E215AGCP1 AFQ5 N00500010000100000060                                       01C
+W9E215AGCP1 B                                                                01D
+W9E215AGCP1           9505                                             C     01E
+W9E215AGCP1 AACCKAW           00VEHICULAR                                    01H
+W9E215AGC01 E44940A030G766                        32  3PANEL,BODY,        0  01A
+W9E215AGC01 AGCP N00500010000100000060                                       01C
+W9E215AGC01 B                                                                01D
+W9E215AGC01                                                            A     01E
+W9E215AGC01 AACCKAWAA         00VEHICULAR                                    01H
+W9E215AGDM1 D44940A030G772                        32  3PANEL,BODY,        0  01A
+W9E215AGDM1 AFQ5 N00500010000100000060                                       01C
+W9E215AGDM1 B                                                                01D
+W9E215AGDM1           9505                                             C     01E
+W9E215AGDM1 AACCKAY           00VEHICULAR                                    01H
+W9E215AGDX1 E44940A035A106                        32  3PANEL,BODY,        0  01A
+W9E215AGDX1 AGDM N00500010000100000060                                       01C
+W9E215AGDX1 B                                                                01D
+W9E215AGDX1                                                            A     01E
+W9E215AGDX1 AACCKAYAA         00VEHICULAR                                    01H
+W9E215AGEJ1 D44940A030G776                        32  3PANEL,BODY,        0  01A
+W9E215AGEJ1 AFQ5 N00500010000100000060                                       01C
+W9E215AGEJ1 B                                                                01D
+W9E215AGEJ1           9505                                             C     01E
+W9E215AGEJ1 AACCKBA           00VEHICULAR                                    01H
+W9E215AGEU1 E44940A035A104                        32  3PANEL,BODY,        0  01A
+W9E215AGEU1 AGEJ N00500010000100000060                                       01C
+W9E215AGEU1 B                                                                01D
+W9E215AGEU1                                                            A     01E
+W9E215AGEU1 AACCKBAAA         00VEHICULAR                                    01H
+W9E215AGLP1 D44940A031A784                        32  3PANEL,BODY,        0  01A
+W9E215AGLP1 AFQ5 N00500020000200000060                                       01C
+W9E215AGLP1 B                                                                01D
+W9E215AGLP1                                                            C     01E
+W9E215AGLP1 AACCKBI           00VEHICULAR                                    01H
+W9E215AGMX1 D44940A034K032                        32  3PANEL,BODY,        0  01A
+W9E215AGMX1 AFQ5 N00500010000100000060                                       01C
+W9E215AGMX1 B                                                                01D
+W9E215AGMX1           9505                                             C     01E
+W9E215AGMX1 AACCKBM           00VEHICULAR                                    01H
+W9E215AGM81 E44940A030G344                        32  1FRAME,STRUCTURAL,  0  01A
+W9E215AGM81 AGMX N0030001REF  00000020                     AF98              01C
+W9E215AGM81 B                                                                01D
+W9E215AGM81                                                            A     01E
+W9E215AGM81 AACCKBMAA         00VEHICULAR                                    01H
+W9E215AH251 C44940A046P430                        32  7DOOR,ACCESS,GENERAL0  01A
+W9E215AH251 ACPR N01500020000200000060                                       01C
+W9E215AH251 B                                                                01D
+W9E215AH251 AACEC             00PURPOSE                                      01H
+W9E215AH3R1 D44940A046P428                        32  3PANEL,BODY,        0  01A
+W9E215AH3R1 AH25 N00500010000200000060                                       01C
+W9E215AH3R1 B                                                                01D
+W9E215AH3R1 AACECAC           00VEHICULAR                                    01H
+W9E215AH3R2 D44940A046P425                        32  3PANEL,BODY,        0  01A
+W9E215AH3R2 AH25 N00500010000200000060                                       01C
+W9E215AH3R2 B                                                                01D
+W9E215AH3R2 AACECAD           00VEHICULAR                                    01H
+W9E215AKP81 B44940A046P459                        32   COOLING SYSTEM,    9  01A
+W9E215AKP81 AAAA N   000100001                                               01C
+W9E215AKP81 B                                                                01D
+W9E215AKP81 AAE               00INSTALLATION                                 01H
+W9E215ALS21 C44940A046P461                        32   INSTALLATION,      9  01A
+W9E215ALS21 AKP8 N002000100001                                               01C
+W9E215ALS21 B                                                                01D
+W9E215ALS21 AAEDS             00RADIATOR                                     01H
+W9E215AMW01 D44940A046P463                        32   INSTALLATION,SKID  9  01A
+W9E215AMW01 ALS2 N010000100001                                               01C
+W9E215AMW01 B                                                                01D
+W9E215AMW01 AAEDSBE           00                                             01H
+W9E215AMY51 E44940A046J699                        32  1MOTOR,ALTERNATING  0  01A
+W9E215AMY51 AMW0 N01000010000100000100                          L007         01C
+W9E215AMY51 B                                                                01D
+W9E215AMY51 AAEDSBEAM         00CURRENT                                      01H
+W9E215APAD1 B44940A046P419                        32  1ENGINE,DIESEL      0  01A
+W9E215APAD1 AAAA N00500010000100000001                          L009         01C
+W9E215APAD1 B                                                                01D
+W9E215APAD1 AAM               00                                             01H
+W9E215A0RW1 C44940A046P407                        32  7LABEL              9  01A
+W9E215A0RW1 APAD N10000010000100000050                                       01C
+W9E215A0RW1 B                                                                01D
+W9E215A0RW1 AAMEO             00                                             01H
+W9E215A47B1 B44940A046P281                        32   HARNESS,           9  01A
+W9E215A47B1 AAAA N   000100001                                               01C
+W9E215A47B1 B                                                                01D
+W9E215A47B1 ABG               00INSTALLATION                                 01H
+W9E215A5J01 C44940A046P277                        32  1CABLE ASSEMBLY     0  01A
+W9E215A5J01 A47B N00200010000100000050                                       01C
+W9E215A5J01 B                                                                01D
+W9E215A5J01 ABGCS             00SPECIAL PURPOSE,ELECTRICAL                   01H
+W9E215A54D1 D449400334-0756                       32  1WIRE,ELECTRICAL    0  01A
+W9E215A54D1 A5J0 N00200010000100000050                                       01C
+W9E215A54D1 B                                                                01D
+W9E215A54D1                                                            A     01E
+W9E215A54D1 ABGCSEU           00                                             01H
+W9E215A54P1 D449400334-0757                       32  1WIRE,ELECTRICAL    0  01A
+W9E215A54P1 A5J0 N00200010001100000050                                       01C
+W9E215A54P1 B                                                                01D
+W9E215A54P1                                                            A     01E
+W9E215A54P1 ABGCSEW           00                                             01H
+W9E215A55B1 D449400334-0758                       32  1WIRE,ELECTRICAL    0  01A
+W9E215A55B1 A5J0 N00200010000100000050                                       01C
+W9E215A55B1 B                                                                01D
+W9E215A55B1                                                            A     01E
+W9E215A55B1 ABGCSEY           00                                             01H
+W9E215A5801 C44940A046P443                        32  1CONTROL            0  01A
+W9E215A5801 A47B N01000010000100000100                                       01C
+W9E215A5801 B                                                                01D
+W9E215A5801 ABGCU             00                                             01H
+W9E215A6K21 D44940A046P437                        32  1CABLE ASSEMBLY,    0  01A
+W9E215A6K21 A580 N00200010000100000050                                       01C
+W9E215A6K21 B                                                                01D
+W9E215A6K21 ABGCUCS           00SPECIAL PURPOSE,ELECTRICAL                   01H
+W9E215A6MB1 E449400334-0758                       32  1WIRE,ELECTRICAL    0  01A
+W9E215A6MB1 A6K2 N00200010000100000050                                       01C
+W9E215A6MB1 B                                                                01D
+W9E215A6MB1                                                            A     01E
+W9E215A6MB1 ABGCUCSAG         00                                             01H
+W9E215BAQD1 B44940A046P289                        32   SWITCHGEAR,        0  01A
+W9E215BAQD1 AAAA N   000100001                                               01C
+W9E215BAQD1 B                                                                01D
+W9E215BAQD1 ABQ               00INSTALLATION                                 01H
+W9E215BAQG1 C44940A046P286                        32  1SWITCHING UNIT,    0  01A
+W9E215BAQG1 BAQG N00100010000100000001                                       01C
+W9E215BAQG1 B                                                                01D
+W9E215BAQG1 ABQAAHQ           00POWER TRANSFER                               01H
+W9E215BCDX1 D51918KJZ00011-OBS                    32  3PANEL              0  01A
+W9E215BCDX1 BAQG N00300010000100000050                                       01C
+W9E215BCDX1 B                                                                01D
+W9E215BCDX1                                                            A     01E
+W9E215BCDX1 ABQAAAY           00                                             01H
+W9E215BCEU1 EC0574W3G300-RQ28-56                  32  1FAN,CIRCULATING    0  01A
+W9E215BCEU1 BCDX N00500010000100000001                                       01C
+W9E215BCEU1 B                                                                01D
+W9E215BCEU1                                                            A     01E
+W9E215BCEU1 ABQAAAYAE         00                                             01H
+W9E215BE231 D44940A046P445                        32  3LABEL              0  01A
+W9E215BE231 BFMF N10000010000100000050                                       01C
+W9E215BE231 B                                                                01D
+W9E215BE231 ABQAAHQAC         00                                             01H
+W9E215BGCP1 B44940A046P439                        32   LABEL,INSTALLATION 9  01A
+W9E215BGCP1 AAAA N   000100001                                               01C
+W9E215BGCP1 B                                                                01D
+W9E215BGCP1 ABU               00                                             01H
+W9E215BGRB1 C44940A046P441                        32  3LABEL              0  01A
+W9E215BGRB1 BGCP N05000010000100000001                                       01C
+W9E215BGRB1 B                                                                01D
+W9E215BGRB1 ABUCY             00                                             01H
+W9E215BGRN1 D44940A046S210                        32  3LABEL              0  01A
+W9E215BGRN1 BGRB N10000010000100000090                                       01C
+W9E215BGRN1 B                                                                01D
+W9E215BGRN1 ABUCYAA           00                                             01H

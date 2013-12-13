@@ -1,0 +1,175 @@
+HEADER kdsjfkds10/30/2013 1:54:27 PM131030
+W9E215AAAA  A44940A034L092                        32  1GENERATOR SET,     0  01A
+W9E215AAAA     6115015364373    EA0252710300EA025271030000001   PBDDD  01 UA001B
+W9E215AAAA           00010000100000001                                       01C
+W9E215AAAA  ZP9                                                              01D
+W9E215AAAA            9505                                                   01E
+W9E215AAAA  A                 00DIESEL ENGINE,TRAILER MOUNTED                01H
+W9E215AAAJ  B44940A030G563                        32   TRAILER,           9  01A
+W9E215AAAJ  B44940A030G563                        32   TRAILER,           9  02A
+W9E215AAAJ     2330---------    EA          EA          00001   XCFZZ  01 UA 01B
+W9E215AAAJ     2330---------    EA          EA          00001   XCFZZ  01 UA 02B
+W9E215AAAJ  AAAA N001000100001                                               01C
+W9E215AAAJ  AAAA N001000100001                                               02C
+W9E215AAAJ  ZP9                                                              01D
+W9E215AAAJ  ZP9                                                              02D
+W9E215AAAJ                                                             A     01E
+W9E215AAAJ                                                             A     02E
+W9E215AAAJ  AAA               00INSTALLATION                                 01H
+W9E215AAAJ  AAA               00INSTALLATION                                 02H
+W9E215AARM  C44940A034N584                        32   TRAILER            9  01A
+W9E215AARM     2530---------    EA          EA          00001   XCFZZ  01 UA 01B
+W9E215AARM  AAAJ N00500010000100000060                                       01C
+W9E215AARM  ZP9                                                              01D
+W9E215AARM                                                             A     01E
+W9E215AARM  AAAAC             00                                             01H
+W9E215AA1G  D44940A034N850                        32   INSTALLATION,      9  01A
+W9E215AA1G     0000---------    EA          EA          00001   XCFZZ  01 UA 01B
+W9E215AA1G  AARM N010000100001                                               01C
+W9E215AA1G  ZP9                                                              01D
+W9E215AA1G  AAAACAA           00RUNNING GEAR                                 01H
+W9E215AA1M  E44940A030J185                        32  3PANEL,BODY,        0  01A
+W9E215AA1M     2510---------    EA0003353846EA000335384600001   XBFZZ  03 UA 01B
+W9E215AA1M  AA1G N00500010000100000060                                       01C
+W9E215AA1M  ZP9                                                              01D
+W9E215AA1M                                                             C     01E
+W9E215AA1M  AAAACAAAA         00VEHICULAR                                    01H
+W9E215AA45  E44940A030K278                        32   AXLE ASSEMBLY,     9  01A
+W9E215AA45     2530---------    EA0001651625EA000165162500001   XCFZZ  02 UA 01B
+W9E215AA45  AA1G N00500010000100000060                                       01C
+W9E215AA45  ZP9                                                              01D
+W9E215AA45                                                             C     01E
+W9E215AA45  AAAACAAAC         00VEHICULAR,NONDRIVING                         01H
+W9E215AA78  F4X3P3A030N534                        32  1AXLE,VEHICULAR,    0  01A
+W9E215AA78     2530---------    EA0000366045EA000036604500001   XBFZZ  02 UA 01B
+W9E215AA78  AA45 N00500010000100000060                                       01C
+W9E215AA78  ZP9                                                              01D
+W9E215AA78                                                             C     01E
+W9E215AA78  AAAACAAACAA       00NONDRIVING                                   01H
+W9E215AA8D  F4X3P307356                           32  1BEARING,WASHER,    0  01A
+W9E215AA8D     3120---------    EA0000006600EA000000660000001   XBFZZ  01 UA 01B
+W9E215AA8D  AA45 N10000020000200000001                                       01C
+W9E215AA8D  ZP9                                                              01D
+W9E215AA8D                                                             C     01E
+W9E215AA8D  AAAACAAACAC       00THRUST                                       01H
+W9E215AA8K  F44940A034K806                        32  1PIVOT,FRONT AXLE   0  01A
+W9E215AA8K     2530---------    EA0000079872EA000007987200001   XBFZZ  02 UA 01B
+W9E215AA8K  AA45 N00500010000100000060                                       01C
+W9E215AA8K  ZP9                                                              01D
+W9E215AA8K                                                             C     01E
+W9E215AA8K  AAAACAAACAE       00                                             01H
+W9E215AA84  F44940A034K809                        32  1PIVOT,FRONT AXLE   0  01A
+W9E215AA84     2530---------    EA0000087179EA000008717900001   XBFZZ  02 UA 01B
+W9E215AA84  AA45 N00500010000100000060                                       01C
+W9E215AA84  ZP9                                                              01D
+W9E215AA84                                                             C     01E
+W9E215AA84  AAAACAAACAG       00                                             01H
+W9E215AA9E  F44940A030X644                        32  7DRAWBAR            0  01A
+W9E215AA9E     2540016172986    EA0000229060EA000022906000001   PBFZZ  02 UA 01B
+W9E215AA9E  AA45 N00500010000100000060                                       01C
+W9E215AA9E  ZP9                                                              01D
+W9E215AA9E                                                             C     01E
+W9E215AA9E  AAAACAAACAI       00                                             01H
+W9E215AA9Q  F15460072-044-01                      32  7SPRING ASSEMBLY,   0  01A
+W9E215AA9Q   44940A030H773                        52                         02A
+W9E215AA9Q     2510016172553    EA0000117758EA000011775800001   PBFZZ  02 UA 01B
+W9E215AA9Q  AA45 N02500020000200000200                                       01C
+W9E215AA9Q  ZP9                                                              01D
+W9E215AA9Q                                                             C     01E
+W9E215AA9Q  AAAACAAACAK       00LEAF                                         01H
+W9E215AA90  G15460014-069-00                      32  7BUSHING,SLEEVE     0  01A
+W9E215AA90     5325016175168    EA0000001095EA000000109500001   PBFZZ  01 UA 01B
+W9E215AA90  AA9Q N10000010000200000001                                       01C
+W9E215AA90  ZP9                                                              01D
+W9E215AA90                                                             A     01E
+W9E215AA90  AAAACAAACAKAA     00                                             01H
+W9E215ABAA  F44940A034P466                        32  3SPACER,STRAIGHT    0  01A
+W9E215ABAA     5365---------    EA0000001604EA000000160400001   XBFZZ  02 UA 01B
+W9E215ABAA  AA45 N02000020000200000020                                       01C
+W9E215ABAA  ZP9                                                              01D
+W9E215ABAA                                                             C     01E
+W9E215ABAA  AAAACAAACAM       00                                             01H
+W9E215ABAL  F4X3P3A030N796                        32  7TIE ROD,STEERING   0  01A
+W9E215ABAL     2530---------    EA0000069538EA000006953800001   PBFZZ  02 UA 01B
+W9E215ABAL  AA45 N00500020000200000060                                       01C
+W9E215ABAL  ZP9                                                              01D
+W9E215ABAL            9505                                             C     01E
+W9E215ABAL  AAAACAAACAO       00                                             01H
+W9E215ABAW  G4X3P3A030N798                        32  7DRAG LINK-TIE ROD  0  01A
+W9E215ABAW     2530016172869    EA0000023694EA000002369400001   PBFZZ  01 UA 01B
+W9E215ABAW  ABAL N01500010000200000060                                       01C
+W9E215ABAW  ZP9                                                              01D
+W9E215ABAW                                                             A     01E
+W9E215ABAW  AAAACAAACAOAA     00                                             01H
+W9E215ABA6  G4X3P35183                            32  7TIE ROD END,       0  01A
+W9E215ABA6     2530016172766    EA0000006039EA000000603900001   PBFZZ  01 UA 01B
+W9E215ABA6  ABAL N01500010000200000060                                       01C
+W9E215ABA6  ZP9                                                              01D
+W9E215ABA6                                                             A     01E
+W9E215ABA6  AAAACAAACAOAC     00STEERING                                     01H
+W9E215ABBG  G4X3P301949                           32  3NUT,PLAIN,HEXAGON  0  01A
+W9E215ABBG     5310---------    EA0000001479EA000000147900001   XBFZZ  01 UA 01B
+W9E215ABBG  ABAL N00400010000200000090                                       01C
+W9E215ABBG  ZP9                                                              01D
+W9E215ABBG                                                             A     01E
+W9E215ABBG  AAAACAAACAOAE     00                                             01H
+W9E215ABBS  G4X3P35182                            32  7TIE ROD END,       0  01A
+W9E215ABBS     2530016172768    EA0000006039EA000000603900001   PBFZZ  01 UA 01B
+W9E215ABBS  ABAL N00500010000200000060                                       01C
+W9E215ABBS  ZP9                                                              01D
+W9E215ABBS                                                             A     01E
+W9E215ABBS  AAAACAAACAOAG     00STEERING                                     01H
+W9E215ABB2  G4X3P301948                           32  3NUT,PLAIN,HEXAGON  0  01A
+W9E215ABB2     5310---------    EA0000001479EA000000147900001   XBFZZ  01 UA 01B
+W9E215ABB2  ABAL N00400010000200000090                                       01C
+W9E215ABB2  ZP9                                                              01D
+W9E215ABB2                                                             A     01E
+W9E215ABB2  AAAACAAACAOAI     00                                             01H
+W9E215ABCC  F4X3P35691                            32  1HUB,WHEEL,VEHICULAR0  01A
+W9E215ABCC     2530016172754    EA0000041460EA000004146000001   PAFFF  02 UA 01B
+W9E215ABCC  AA45 N00500020000600000060                                       01C
+W9E215ABCC  ZP9                                                              01D
+W9E215ABCC            9505                                             C     01E
+W9E215ABCC  AAAACAAACAQ       00                                             01H
+W9E215ABCN  G3942898338A270                       32  3PIN,COTTER         0  01A
+W9E215ABCN     5315015174827    EA0000000004PG000000020720002   PAFZZ  02 UA001B
+W9E215ABCN  ABCC N00200010001000001000                                       01C
+W9E215ABCN  ZP9                                                              01D
+W9E215ABCN                                                             C     01E
+W9E215ABCN  AAAACAAACAQAA     00                                             01H
+W9E215ABCY  G4X3P301933                           32  3CAP,GREASE         0  01A
+W9E215ABCY     2530---------    EA0000001387EA000000138700001   XBFZZ  02 UA 01B
+W9E215ABCY  ABCC N00500010000600000060                                       01C
+W9E215ABCY  ZP9                                                              01D
+W9E215ABCY                                                             C     01E
+W9E215ABCY  AAAACAAACAQAC     00                                             01H
+W9E215ABC8  G3942895030A310                       32  1NUT,PLAIN,CONE SEAT0  01A
+W9E215ABC8     5310---------    EA0000000230FV000000115110002   XBFZZ  02 UA 01B
+W9E215ABC8  ABCC N00400010000600000090                                       01C
+W9E215ABC8  ZP9                                                              01D
+W9E215ABC8                                                             C     01E
+W9E215ABC8  AAAACAAACAQAE     00,HEXAGON                                     01H
+W9E215ABDJ  G4X3P301936                           32  3WASHER,FLAT        0  01A
+W9E215ABDJ     5310---------    EA0000000242EA000000024200001   XBFZZ  02 UA 01B
+W9E215ABDJ  ABCC N00400010000600000060                                       01C
+W9E215ABDJ  ZP9                                                              01D
+W9E215ABDJ                                                             C     01E
+W9E215ABDJ  AAAACAAACAQAG     00                                             01H
+W9E215ABDU  G4X3P301937                           32  1RING,BEARING,OUTER 0  01A
+W9E215ABDU     3110---------    EA0000003038EA000000303800001   XBFZZ  02 UA 01B
+W9E215ABDU  ABCC N05000010000600000001                                       01C
+W9E215ABDU  ZP9                                                              01D
+W9E215ABDU                                                             C     01E
+W9E215ABDU  AAAACAAACAQAI     00                                             01H
+W9E215ABD4  G4X3P301941                           32  1HUB,WHEEL,VEHICULAR0  01A
+W9E215ABD4     2530---------    EA0000026203EA000002620300001   XBFZZ  02 UA 01B
+W9E215ABD4  ABCC N00500010000600000060                                       01C
+W9E215ABD4  ZP9                                                              01D
+W9E215ABD4                                                             C     01E
+W9E215ABD4  AAAACAAACAQAK     00                                             01H
+W9E215ABEE  G4X3PA030G563                         32  1RING,BEARING,INNER 0  01A
+W9E215ABEE     3110---------    EA0000057051EA000005705100001   XBFZZ  02 UA 01B
+W9E215ABEE  ABCC N05000010000600000001                                       01C
+W9E215ABEE  ZP9                                                              01D
+W9E215ABEE                                                             C     01E
+W9E215ABEE  AAAACAAACAQAM     00                                             01H

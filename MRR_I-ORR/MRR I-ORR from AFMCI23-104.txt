@@ -1,0 +1,586 @@
+5305//Screws, assembled washer//0.0060//0.01
+5305//Screws, cap, hexagon head//0.0060//0.01
+5305//Screws, cap, socket, head//0.0060//0.01
+5305//Screws, close tolerance//0.0090//0.02
+5305//Screws, externally relieved body//0.0060//0.00
+5305//Screws, eye//0.0020//0.01
+5305//Screws, instrument//0.0090//0.01
+5305//Screws, machine//0.0060//0.02
+5305//Screws, panel fastener//0.0060//0.05
+5305//Screws, self-locking//0.0200//0.07
+5305//Screws, shoulder//0.0060//0.01
+5305//Screws, tapping, thread cutting//0.0020//0.01
+5305//Screws, tapping, thread forming//0.0020//0.01
+5305//Screws, wood//0.0020//0.01
+5305//Setscrews//0.0090//0.01
+5305//Thumbscrews//0.0060//0.01
+5305//Screws, adjustable//0.0200//0.05
+5305//Screws, flat//0.0060//0.01
+5306//Bolts, assembled washer//0.0060//0.02
+5306//Bolts, clevis//0.0060//0.02
+5306//Bolts, close tolerance//0.0090//0.02
+5306//Bolts, drive shank//0.0060//0.02
+5306//Bolts, eccentric head//0.0060//0.02
+5306//Bolts, externally relieved body//0.0060//0.02
+5306//Bolts, eye//0.0090//0.02
+5306//Bolts, fillister head//0.0060//0.02
+5306//Bolts, hanger//0.0020//0.02
+5306//Bolts, hex head//0.0060//0.02
+5306//Bolts, hook//0.0020//0.02
+5306//Bolts, internal wrenching//0.0060//0.02
+5306//Bolts, internally relieved body//0.0060//0.02
+5306//Bolts, key head//0.0020//0.02
+5306//Bolts, lag//0.0020//0.02
+5306//Bolts, machine//0.0060//0.02
+5306//Bolts, ring//0.0020//0.02
+5306//Bolts, self-locking//0.0200//0.02
+5306//Bolts, shear//0.0090//0.02
+5306//Bolts, shoulder//0.0060//0.02
+5306//Bolts, sliding handle//0.0020//0.02
+5306//Bolts, square neck//0.0060//0.02
+5306//Bolts, tee-head//0.0020//0.02
+5306//Bolts, toggle//0.0020//0.02
+5306//Bolts, U//0.0060//0.02
+5307//Studs, continuous thread//0.0020//0.03
+5307//Studs, extension//0.0020//0.02
+5307//Studs, locked in//0.0090//0.03
+5307//Studs, plain//0.0060//0.03
+5307//Studs, recessed//0.0060//0.03
+5307//Studs, recessed and stepped//0.0060//0.03
+5307//Studs, self-locking//0.0200//0.03
+5307//Studs, shouldered//0.0060//0.03
+5307//Studs, shouldered and stepped//0.0060//0.03
+5307//Studs, stepped//0.0060//0.03
+5307//Studs, tapping, thread forming//0.0020//0.03
+5307//Studs, welding//0.0020//0.03
+5310//Nuts, concave, hexagon//0.0090//0.01
+5310//Nuts, concave, square//0.0090//0.01
+5310//Nuts, eye//0.0060//0.01
+5310//Nuts, hexagon, jam//0.0020//0.01
+5310//Nuts, plain//0.0090//0.04
+5310//Nuts, plain, barrel//0.0090//0.04
+5310//Nuts, plain, blind rivet//0.0020//0.04
+5310//Nuts, plain, cap//0.0140//0.04
+5310//Nuts, plain, castellated, hexagon//0.0090//0.04
+5310//Nuts, castellated, octagon//0.0090//0.04
+5310//Nuts, plain, clinch//0.0090//0.04
+5310//Nuts, plain, cone seat, hexagon//0.0090//0.04
+5310//Nuts, plain, dodecagon//0.0090//0.04
+5310//Nuts, plain, double ball set, hexagon//0.0140//0.04
+5310//Nuts, plain, extended washer, double hexagon//0.0090//0.04
+5310//Nuts, plain, extended washer, hexagon//0.0090//0.04
+5310//Nuts, plain, extended washer, square//0.0090//0.04
+5310//Nuts, plain, hexagon//0.0090//0.04
+5310//Nuts, plain, internal wrenching//0.0090//0.04
+5310//Nuts, plain, knurled//0.0140//0.04
+5310//Nuts, plain, octagon//0.0090//0.04
+5310//Nuts, plain, plate//0.0090//0.04
+5310//Nuts, plain, rectangular//0.0090//0.04
+5310//Nuts, plain, round//0.0090//0.04
+5310//Nuts, plain, single base set, hexagon//0.0140//0.04
+5310//Nuts, plain, slotted, hexagon//0.0090//0.04
+5310//Nuts, plain, slotted, octagon//0.0090//0.04
+5310//Nuts, plain, spline//0.0090//0.04
+5310//Nuts, plain, square//0.0090//0.04
+5310//Nuts, plain, tubular//0.0090//0.04
+5310//Nuts, plain, welding//0.0090//0.04
+5310//Nuts, plain, wing//0.0090//0.04
+5310//Nuts, self-locking, assembled washer//0.0200//0.04
+5310//Nuts, self-locking, barrel//0.0200//0.07
+5310//Nuts, self-locking, blind rivet//0.0200//0.07
+5310//Nuts, self-locking, cap//0.0250//0.07
+5310//Nuts, self-locking, castellated, hexagon//0.0200//0.07
+5310//Nuts, self-locking, castellated, octagon//0.0200//0.07
+5310//Nuts, self-locking, clinch//0.0250//0.07
+5310//Nuts, self-locking, cone seat, hexagon//0.0200//0.07
+5310//Nuts, self-locking, double ball seat, hexagon//0.0200//0.07
+5310//Nuts, self-locking, double hexagon//0.0200//0.07
+5310//Nuts, self-locking, extended washer, double hexagon//0.0200//0.07
+5310//Nuts, self-locking, extended washer, hexagon//0.0200//0.07
+5310//Nuts, self-locking, extended washer, square//0.0200//0.07
+5310//Nuts, self-locking, gang channel//0.0400//0.07
+5310//Nuts, self-locking, hexagon//0.0200//0.07
+5310//Nuts, self-locking, internal wrenching//0.0200//0.07
+5310//Nuts, self-locking, knurled//0.0200//0.01
+5310//Nuts, self-locking, single ball seat, hexagon//0.0200//0.07
+53l0//Nuts, self-locking, slotted, hexagon//0.0200//0.07
+53l0//Nuts, self-locking, slotted, octagon//0.0200//0.07
+5310//Nuts, self-locking, spline//0.0200//0.07
+5310//Nuts, self-locking, square//0.0200//0.07
+5310//Nuts, self-locking, welding//0.0200//0.07
+5310//Nuts, self-locking, plate//0.0200//0.07
+5310//Nuts, self-locking, round, except bearing//0.0200//0.17
+5310//Nuts, self-locking, wing//0.0250//0.01
+5310//Nuts, sheet spring//0.0090//0.01
+5310//Nuts, sleeve//0.0090//0.01
+5310//Nuts, stamped//0.0090//0.01
+5310//Nuts, Tinnerman//0.0090//0.01
+5310//Nuts assemblies, retainer plate//0.0140//0.01
+5310//Nut assemblies, retainer ring//0.0140//0.01
+5310//Nut assemblies, self-locking, gang angle//0.0400//0.07
+5310//Nut assemblies, self-locking, gang channel//0.0400//0.07
+5310//Nut spaces, plate//0.0900//0.01
+5310//Nut strips//0.0140//0.01
+5310//Push on nuts//0.0400//0.02
+5310//Recessed washers//0.0060//0.02
+5310//Rivet//0.0250//0.07
+5310//Slotted nuts//0.0090//0.01
+5310//Spanner nuts//0.0400//0.01
+5310//Washers, bevel//0.0090//0.01
+5310//Washers, C//0.0090//0.01
+5310//Washers, concave//0.0060//0.01
+5310//Washers, convex//0.0060//0.01
+5310//Washers, countersunk lock//0.0200//0.03
+5310//Washers, external lock//0.0200//0.03
+5310//Washers, finishing//0.0060//0.01
+5310//Washers, flanged cup//0.0060//0.03
+5310//Washers, flanged dish//0.0060//0.03
+5310//Washers, flat//0.0060//0.01
+5310//Washers, internal lock//0.0200//0.03
+5310//Washers, key//0.0090//0.01
+5310//Washers, keyway//0.0090//0.01
+5315//Key machine//0.0020//0.01
+5315//Key, woodruff//0.0040//0.02
+5315//Nails//0.0020//0.02
+5315//Pins, cotter//0.1000//0.02
+5315//Pins, drive//0.0400//0.03
+5315//Pins, grooved, headed//0.0400//0.03
+5315//Pins, headless//0.0700//0.03
+5315//Pins, lock//0.0020//0.03
+5315//Pins, retaining//0.0400//0.03
+5315//Pins, shoulder headless//0.0400//0.03
+53l5//Pins, shoulder headed//0.0400//0.03
+5315//Pins, straight headed//0.0400//0.02
+53l5//Pins, straight headless//0.0400//0.02
+53l5//Pins, straight threaded//0.0020//0.02
+53l5//Pins, tapered plain//0.0400//0.00
+53l5//Pins, tapered threaded//0.0040//0.00
+5315//Pins, toggle, eye collar//0.0090//0.03
+5315//Pins, toggle headed//0.0090//0.03
+5315//Tacks//0.0020//0.03
+5315//Pins, grooved, headless//0.0040//0.03
+5315//Pin, spring//0.0090//0.02
+5315//Plates, door kick//0.0060//0.02
+5315//Plates, door push//0.0060//0.02
+5315//Plates, mending//0.0040//0.20
+5315//Plates, resilient mount//0.0040//0.20
+5315//Plugs, expansion//0.0040//0.20
+5315//Plugs, fusible//0.0060//0.05
+5315//Plugs, protective, dust and moisture seal//0.0090//0.20
+5315//Plug, assemblies, sealing//0.0060//0.05
+5315//Plungers, quick release//0.0060//0.05
+5315//Pockets, stake//0.0020//0.01
+5315//Points, glazer//0.0060//0.02
+5315//Pokers//0.0020//0.01
+5315//Poles, sash//0.0060//0.02
+5315//Post, electrical and mechanical equipment//0.0090//0.05
+5315//Pulleys, sash//0.0020//0.01
+5315//receptacles, friction catch stud//0.0400//0.20
+5315//Receptacles, quick release pins//0.0400//0.20
+5315//Retainers, assembled nut//0.0090//0.05
+5315//Retainers, nut and bolt//0.0060//0.02
+5315//Rings, door flush//0.0020//0.01
+5315//Rods, grooved, headless//0.0400//0.20
+5315//Rods, straight, headless//0.0400//0.20
+5315//Rod ends, externally threaded//0.0400//0.20
+5315//Rod ends, internally threaded//0.0400//0.20
+5315//Saddles, pipe covering protection//0.0060//0.02
+5320//Caps, rivet//0.0060//0.02
+5320//Collars, pin-rivet, grooved//0.0060//0.02
+5320//Collars, pin-rivet, threaded//0.0060//0.02
+5320//Pin-rivets, dowel//0.0060//0.02
+5320//Pin rivets, grooved//0.0060//0.02
+5320//Rivets, blind//0.0090//0.02
+5320//Rivets, solid//0.0090//0.01
+5320//Rivets, split//0.0060//0.02
+5320//Rivets, structural//0.0090//0.02
+5320//Rivets, tubular//0.0060//0.02
+5325//Caps, snap fastener//0.0090//0.02
+5325//Chains, interlocking slide fastener//0.0090//0.02
+5325//Clinch plates, snap fastener//0.0090//0.02
+5325//Clinch plates, turn button fastener//0.0200//0.10
+5325//Cowling fastener, aircraft//0.0200//0.10
+5325//Ejector springs, turn lock fastener//0.0200//0.10
+5325//Ejector spring assemblies, turn lock fastener//0.0200//0.10
+5325//Eyelets, metallic//0.0090//0.02
+5325//Eyelets, nonmetallic//0.0090//0.02
+5325//Eyelets, turn lock fastener//0.0090//0.02
+5325//Fasteners, positive lock//0.0090//0.02
+5325//Fasteners, slide interlocking//0.0090//0.02
+5325//Fasteners, snap//0.0090//0.02
+5325//Fasteners, snap slide//0.0090//0.02
+5325//Fasteners, spring tension, trim//0.0200//0.02
+5325//Fasteners, turn button//0.0200//0.02
+5325//Fastener assemblies, turn lock//0.0200//0.02
+5325//Grommets, metallic//0.0060//0.02
+5325//Grommets, plastic//0.0090//0.02
+5325//Grommets, rubber//0.0200//0.04
+5325//Latches, snap slide fastener//0.0090//0.02
+5325//Latch guides, snap slide fastener//0.0090//0.02
+5325//Locksprings, turn lock fastener//0.0200//0.02
+5325//Posts, snap fastener//0.0090//0.02
+5325//Post, snap slide fastener//0.0090//0.02
+5325//Receptacles, positive lock//0.0200//0.03
+5325//Receptacles, turn lock fastener//0.0200//0.03
+5325//Retainer, turn lock fastener ejector spring//0.0200//0.02
+5325//Sliders and pulls, interlocking slide fastener//0.0200//0.02
+5325//Sockets, push button fastener//0.0090//0.02
+5325//Sockets, snap fastener//0.0090//0.02
+5325//Sockets, turn button fastener//0.0200//0.02
+5325//Stops, interlocking slide fastener//0.0090//0.02
+5325//Studs, lock pin fasteners//0.0090//0.01
+5325//Studs, push button fasteners//0.0090//0.01
+5325//Studs, snap fasteners//0.0090//0.01
+5325//Studs, snap slide fastener//0.0090//0.01
+5325//Studs, turn button fastener//0.0200//0.01
+5325//Studs, turn lock fastener//0.0200//0.01
+5325//Stud assemblies turn lock fastener//0.0200//0.01
+5325//Supports, snap fastener//0.0090//0.01
+5325//Studs, positive lock//0.0090//0.01
+5330//Bibb Washers//0.0140//0.05
+5330//Disks, solid, plain//0.0060//0.02
+5330//Gaskets//0.0200//0.38
+5330//Gasket and preformed packing assortments, except specially// // 
+5330//Gasket and performed packing sets, except specially designed//0.0140//0.38
+5330//Gasket and seal sets, except specially designed//0.0140//0.38
+5330//Gasket and shim sets, except specially designed//0.0140//0.38
+5330//Gasket assortments, except specially designed//0.0140//0.38
+5330//Glands, packing//0.0060//0.20
+5330//Grease seals, except specially designed//0.0060//0.20
+5330//Leathers check valve//0.0140//0.38
+5330//Leathers hydraulic packing//0.0140//0.38
+5330//Lock on seals//0.0140//0.38
+5330//Oil seals, except specially designed//0.0060//0.20
+5330//Packing, preformed//0.1000//0.34
+5330//Packing, retainer ring//0.0140//0.50
+5330//Packing assemblies//0.0140//0.50
+5330//Packing assortments, preformed, except specially designed//0.1000//0.50
+5330//Packing rings//0.0140//0.50
+5330//Packing with retainers, except specially designed//0.0140//0.50
+5330//Pipe flange gaskets//0.0200//0.50
+5330//Preformed packing assemblies, except specially designed//0.0140//0.50
+5330//Retainers, packing//0.0140//0.50
+5330//Ring gaskets//0.0140//0.38
+5330//Seals, plain//0.0060//0.38
+5330//Seals, plain encased//0.0060//0.38
+5330//Seal rings, metal//0.0090//0.38
+5330//Sealing rings//0.0090//0.20
+5330//Sleeves, seal, coupler//0.0060//0.20
+5335//Metal Screening Bulk items not subject// // 
+5340//Adapters, resilient mount//0.0090//0.20
+5340//Anchor plates, steel strapping//0.0060//0.02
+5340//Bands, retaining//0.0090//0.20
+5340//Brackets, angle//0.0060//0.03
+5340//Brackets, handrail//0.0020//0.03
+5340//Brackets, shelf//0.0020//0.03
+5340//Brackets, track sliding door//0.0060//0.03
+5340//Bumpers, luggage//0.0060//0.03
+5340//Bumpers, plastic//0.0060//0.03
+5340//Bumpers, rubber//0.0090//0.02
+5340//Buttons door//0.0060//0.03
+5340//Buttons, plug//0.0060//0.03
+5340//Casters, rigid//0.0200//0.03
+5340//Casters, swivel//0.0200//0.03
+5340//Catches, clamping//0.0060//0.20
+5340//Catches, elbow//0.0020//0.03
+5340//Catches, friction//0.0060//0.03
+5340//Chains, transom//0.0020//0.03
+5340//Clamps, I-beam gripping//0.0060//0.03
+5340//Clamps, instrument mounting//0.0400//0.03
+5340//Clamps, lid and body, luggage//0.0060//0.03
+5340//Clamps, loop//0.0090//0.01
+5340//Clamps, rim clenching//0.0200//0.03
+5340//Clamps, tray, luggage//0.0200//0.03
+5340//Claws, flush catch//0.0060//0.03
+5340//Clevises, rod end//0.0400//0.20
+5340//Clips, retaining//0.0090//0.20
+5340//Clips, split tubular//0.0090//0.20
+5340//Clips, spring tension//0.0090//0.03
+5340//Clips, steel beam flange//0.0060//0.03
+5340//Closers, door//0.0060//0.03
+5340//Connectors, rod end//0.0200//0.20
+5340//Control, rods//0.0400//0.20
+5340//Corners, case//0.0060//0.01
+5340//Couplings clamp grooved//0.0400//0.20
+5340//Coupling halves, clamp grooved//0.0400//0.20
+5340//Cups, furniture//0.0060//0.03
+5340//Cups, suction//0.0090//0.03
+5340//Dogs, door closer//0.0060//0.03
+5340//Doorknobs//0.0020//0.07
+5340//Doorstops//0.0060//0.01
+5340//Escutcheon plates//0.0090//0.03
+5340//Eyes padlock//0.0060//0.03
+5340//Eye hooks//0.0090//0.07
+5340//Fairlead halves, tubular//0.0060//0.03
+5340//Fasteners, casement//0.0060//0.03
+5340//Fasteners, flarelock//0.0060//0.03
+5340//Ferrules, grooved clamp coupling//0.0060//0.03
+5340//Frames, rigid caster//0.0200//0.20
+5340//Frames, swivel caster//0.0200//0.20
+5340//Glides, furniture//0.0020//0.07
+5340//Grips, handle//0.0020//0.01
+5340//Handles, bail//0.0060//0.03
+5340//Handles, bow//0.0060//0.03
+5340//Handles, extension, wood//0.0020//0.01
+5340//Handles, hook//0.0020//0.01
+5340//Handles, luggage//0.0020//0.01
+5340//Handles, recess//0.0020//0.01
+5340//Handle caps, luggage//0.0020//0.01
+5340//Hangers, screen and storm sash//0.0020//0.01
+5340//Hangers, sliding door//0.0200//0.20
+5340//Hinges butt//0.0090//0.07
+5340//Hinges, strap//0.0200//0.02
+5340//Hinges, tee//0.0020//0.01
+5340//Holders, door//0.0020//0.01
+5340//Holders, key//0.0020//0.01
+5340//Hooks, coat and hat//0.0020//0.01
+5340//Hooks, door//0.0020//0.01
+5340//Hooks, hammock//0.0020//0.01
+5340//Hooks, mailbag rack//0.0020//0.01
+5340//Hooks, screw//0.0060//0.03
+5340//Hooks, support//0.0090//0.07
+5340//Hooks and eves, door//0.0060//0.03
+5340//Inserts, screw thread//0.0400//0.20
+5340//Keepers, slide//0.0090//0.07
+5340//Key blanks//0.0060//0.03
+5340//Key chains and reel//0.0060//0.03
+5340//Latches, mortise//0.0200//0.07
+5340//Latches, thumb//0.0060//0.03
+5340//Latch sets, mortise//0.0400//0.01
+5340//Latch sets, rim//0.0400//0.07
+5340//Lifts, sash//0.0060//0.03
+5340//Locks, flush//0.0090//0.03
+5340//Locks, luggage//0.0060//0.03
+5340//Locks, rim//0.0200//0.07
+5340//Locks sets, mortise//0.0060//0.03
+5340//Lock sets, rim//0.0400//0.03
+5340//Mounts, resilient//0.0400//0.20
+5340//Pads, shock mount//0.0400//0.20
+5340//Padlocks//0.0020//0.01
+5340//Patches, mechanical, flexible surface//0.0400//0.20
+5340//Patches, mechanical, rigid surface//0.0400//0.20
+5340//Pins, quick release//0.0400//0.20
+5340//Plates, clip retainer//0.0090//0.03
+5340//Seals, metallic//0.0400//0.07
+5340//Seals, self-locking//0.0200//0.07
+5340//Shields, expansion//0.0090//0.03
+5340//Shields, stovepipe//0.0060//0.03
+5340//Shields, termite//0.0060//0.03
+5340//Snap hooks//0.0400//0.07
+5340//Spring hooks, cremation urn//0.0060//0.01
+5340//Staples, hasp//0.0060//0.01
+5340//Stays, folding//0.0060//0.01
+5340//Stays, sliding//0.0060//0.20
+5340//Straps, line supporting//0.0400//0.20
+5340//Straps, retaining//0.0400//0.20
+5340//Studs, friction catch//0.0400//0.20
+5340//Supports, pipe, chair//0.0090//0.03
+5340//Supports, pipe, hook//0.0090//0.03
+5340//Supports, pipe seat//0.0090//0.03
+5340//Tie-rods, tensioning, threaded end//0.0400//0.20
+5340//Timber rings//0.0020//0.01
+5340//Tips, furniture leg//0.0060//0.07
+5340//Tracks, sliding door//0.0400//0.07
+5340//Supports, pipe saddle//0.0090//0.03
+5340//Turnbuckles//0.0400//0.07
+5340//Turnbuckle assemblies//0.0400//0.20
+5340//Turnbuckle bodies//0.0400//0.20
+5340//Delay lines// //0.13
+5355//Adjusters, meter pointer//0.0200//0.05
+5355//Bushing-shafts, panel//0.0090//0.05
+5355//Couplings, insulated, bushing-shaft//0.0090//0.05
+5355//Covers, dial, multiapplication//0.0200//0.05
+5355//Cursors, indicator//0.0090//0.05
+5355//Dials, control//0.0200//0.05
+5355//Dials, scale//0.0200//0.05
+5355//Dial-knob locks, electronic component//0.0400//0.05
+5355//Extension shafts, except specially designed//0.0090//0.05
+5355//Masks, dial, multiapplication//0.0200//0.05
+5355//Pointers, dial//0.0140//0.05
+5355//Shaft locks, electronic component//0.0090//0.05
+5355//Shutters, dial, multiapplication//0.0400//0.05
+5355//Stops, dial//0.0200//0.05
+5355//Windows, dial//0.0090//0.05
+5360//Engine, value springs//0.0060//0.01
+5360//Initial tension extension springs//0.0060//0.01
+5360//Initial tension springs//0.0090//0.01
+5360//Springs, body support//0.0060//0.01
+5360//Springs, cap, distributor//0.0020//0.01
+5360//Springs, contract, ignition//0.0020//0.01
+5360//Springs, cowling fastener//0.0020//0.01
+5360//Springs, door, adjustable//0.0020//0.01
+5360//Springs, earth moving and excavating equipment//0.0020//0.01
+5360//Springs, flat//0.0140//0.01
+5360//Springs, garter, extension//0.0020//0.01
+5360//Springs, ground, ignition//0.0020//0.01
+5360//Springs, helical//0.0020//0.30
+5360//Springs, helical, compression//0.0020//0.30
+5360//Springs, helical, extension//0.0020//0.30
+5360//Springs, helical, torsion//0.0020//0.30
+5360//Springs, mobil crane and crane-shovel//0.0140//0.01
+5360//Springs, seat, valve//0.0090//0.01
+5360//Spring, spiral//0.0090//0.01
+5360//Springs, spiral, torsion//0.0090//0.01
+5360//Springs, valve//0.0090//0.01
+5360//Springs, volute//0.0090//0.01
+5360//Springs, wheeled tractor//0.0060//0.01
+5365//Bushings, machine thread//0.0090//0.03
+5365//Bushings, rubber//0.0090//0.03
+5365//Bushings, tapered//0.0090//0.03
+5365//Bushings blanks//0.0090//0.03
+5365//Plugs, machine thread//0.0090//0.03
+5365//Plugs, machine thread, magnetic//0.0090//0.03
+5365//Rings, connecting, round//0.0020//0.07
+5365//Rings, dee//0.0020//0.07
+5365//Rings, externally threaded//0.0090//0.20
+5365//Rings, lock, keyed//0.0020//0.20
+5365//Rings, lock serrated//0.0020//0.20
+5365//Rings, retaining//0.0060//0.40
+5365//Rings, retaining, instrument//0.0060//0.40
+5365//Ring sets, retaining, instrument//0.0060//0.40
+5365//Shims//0.0090//0.20
+5365//Shims, battery terminal post//0.1000//0.40
+5365//Shims, brake lining//0.1000//0.40
+5365//Shims, retaining washer//0.0090//0.20
+5365//Shims, assortments//0.0090//0.20
+5365//Shim sets//0.0020//0.20
+5365//Spacer, axle, landing gear//0.1000//0.20
+5365//Spacers, plate//0.0020//0.20
+5365//Spacers, ring//0.0060//0.20
+5365//Spacers, sleeve//0.0020//0.20
+5365//Spacers, stepped//0.0060//0.20
+5365//Spacers assortments, plate//0.0020//0.20
+5365//Spacer sets, plate//0.0020//0.20
+5365//Spacer sets, ring//0.0060//0.20
+5905//Potentiometer//0.0200//0.11
+5905//Resistor, adjustable//0.0200//0.11
+5905//Resistor, fixed, composition//0.0200//0.04
+5905//Resistor, fixed, film//0.0100//0.04
+5905//Resistor, fixed, wirewound//0.0100//0.03
+5905//Resistor, variable wirewound//0.0100//0.11
+5905//Resistor, variable//0.0200//0.07
+5905//Rheostat//0.0050//0.11
+5910//Capacitor, fixed, electrolytic//0.0050//0.05
+5910//Capacitor, fixed, glass dielectric//0.0050//0.05
+5910//Capacitor, fixed, mica dielectric//0.0050//0.06
+5910//Capacitor, fixed, paper dielectric//0.0050//0.06
+5910//Capacitor, fixed, plastic, dielectric//0.0050//0.05
+5910//Capacitor, fixed, oil dielectric//0.0050//0.05
+5910//Capacitor, fixed, ceramic//0.0050//0.04
+5910//Capacitor, variable, air dielectric//0.0080//0.07
+5910//Capacitor, variable, ceramic//0.0100//0.07
+5910//Capacitor, variable, oil//0.0300//0.07
+5915//Filter, audio frequency//0.0070//0.07
+5915//Filter, band pass//0.0070//0.08
+5915//Filter, band supressor//0.0070//0.07
+5915//Filter, DC power//0.0100//0.07
+5915//Filter, radio interference//0.0070//0.10
+5915//Network, impedence matching//0.0100//0.07
+5920//Arrestor, electrical surge//0.0200//0.35
+5920//Fuse, cartridge//0.0500//0.90
+5920//Fuse, electrical//0.0200//0.35
+5920//Fuse, holder//0.0050//0.05
+5925//Circuit breaker//0.0100//0.04
+5930//Switch, box//0.0050//0.10
+5930//Switch, knife//0.0050//0.10
+5930//Switch, limit//0.0400//0.10
+5930//Switch, pressure//0.0300//0.10
+5930//Switch, rotary//0.0100//0.10
+5930//Switch, stepping//0.0100//0.10
+5930//Switch, toggle//0.0100//0.02
+5930//Switch, thermostatic//0.0300//0.20
+5930//Switch, sensitive//0.0300//0.20
+5930//Switch, push//0.0100//0.10
+5930//Adapter, switch actuator//0.0050//0.08
+5935//Connector, electrical, cable guard//0.0100//0.05
+5935//Connector, electrical, receptacle//0.0100//0.09
+5935//Connector, high voltage//0.0100//0.05
+5935//Plug, electrical//0.0100//0.03
+5935//Socket, relay & socket, tube, plug-in//0.0060//0.03
+5935//Clamp cable, electric//0.0060//0.03
+5935//Shield, electric//0.0300//0.55
+5935//Key, polarizing//0.0100//0.01
+5940//Terminal, board//0.0050//0.02
+5940//Terminal, feed thru//0.0050//0.03
+5940//Terminal, lug//0.0050//0.01
+5940//Terminal, post//0.0050//0.02
+5940//Terminal, stud//0.0050//0.02
+5940//Clip, electrical//0.0050//0.01
+5945//Relay, AC-DC control//0.0100//0.37
+5945//Relay, multipurpose//0.0300//0.55
+5945//Relay, thermal//0.0400//0.25
+5945//Relay, armature//0.0100//0.12
+5945//Relay, motor driven//0.0100//0.05
+5945//Relay, solenoid//0.0300//0.13
+5945//Solenoid, electrical//0.0400//0.37
+5950//Choke, filter//0.0050//0.02
+5950//Choke, radio frequency//0.0050//0.01
+5950//Coil, deflection yoke//0.0100//0.01
+5950//Coil, radio frequency//0.0060//0.15
+5950//Reactor//0.0160//0.06
+5950//Reactor, saturable//0.0070//0.02
+5950//Reactor, transformer//0.0070//0.02
+5950//Transformer, audio//0.0050//0.02
+5950//Transformer, power fixed (below IKVA)//0.0160//0.11
+5950//Transformer, power, variable (below IKVA)//0.0200//0.07
+5950//Transformer, pulse//0.0050//0.08
+5950//Transformer, radio frequency//0.0050//0.11
+5950//Transformer, electrical (general)//0.0010//0.08
+5960//Base, shield//0.0050//0.02
+5960//Base, switch//0.0050//0.02
+5960//Base, tube//0.0050//0.02
+5960//Tube, electron//0.1000//0.73
+5960//Tube, electron power//0.2500//0.73
+5960//Shield, electron//0.0050//0.26
+5960//Retainer, electron//0.0050//0.02
+5961//Pad, transistor//0.0100//0.10
+5961//Semiconductor device, diode//0.4000//0.14
+5961//Socket, semiconductor device//0.0060//0.02
+5961//Socket, tube//0.0060//0.01
+5961//Transistor, low frequency//0.0300//0.26
+5961//Transistor, power//0.1000//0.26
+5961//Retainer, transistor//0.0060//0.02
+5961//Photoelectric cell//0.1000//0.11
+5961//Rectifier, semiconductor//0.2500//0.35
+5961//Insulator//0.0020//0.01
+5962//Core, memory, magnetic//0.0020//0.05
+5962//Integrated circuits//0.0100//0.20
+5963//Electronic modules//0.0100//0.20
+5965//Headsets//0.0200//0.11
+5965//Jack assy, tip//0.0100//0.04
+5965//Jack, telephone//0.0100//0.02
+5965//Loud speaker//0.0200//0.11
+5965//Microphone//0.0200//0.20
+5970//Bushing, sleeve//0.0050//0.11
+5970//Insulator, disk//0.0050//0.11
+5970//Insulator, feed thru//0.0050//0.11
+5970//Insulator, post//0.0080//0.20
+5970//Insulator, standoff//0.0080//0.20
+5970//Insulator, washer//0.0080//0.20
+5970//Insulator, pin//0.0080//0.20
+5970//Insulator, electrical//0.0080//0.20
+5975//Clamp, electrical//0.0050//0.03
+5977//Brushes, electrical contact//0.0050 0//1.00
+5977//Holder, brush contact//0.0050//0.25
+5977//Holder, clip//0.0050//0.25
+5985//Antenna//0.0050//0.08
+5985//Attenuator, fixed//0.0050//0.08
+5985//Attenuator, variable//0.0100//0.10
+5985//Coupler, directional//0.0100//0.10
+5985//Dummy load//0.0050//0.05
+5985//Waveguide//0.0100//0.10
+5985//Waveguide, flexible//0.0300//0.20
+5990//Motor, selsyn//0.0060//0.10
+5990//Syncho, receiver//0.0060//0.10
+5990//Syncho, receiver, transmitter//0.0060//0.10
+5990//Syncho, resolver//0.0060//0.10
+5990//Syncho, transmitter//0.0060//0.10
+5995//Cable assembly, control//0.0050//0.02
+5995//Cable assembly, power//0.0050//0.02
+5995//Cable assembly, radio frequency//0.0100//0.05
+5995//Wiring harness//0.0050//0.01
+5999//Contact, electrical//0.0100//0.10
+5999//Gasketing material, conductive//0.0080//0.20
+5999//Heat sink//0.0060//0.02
+5999//Shield, electron tube//0.0080//0.02
+5999//Shield, cathode ray tube//0.0080//0.02

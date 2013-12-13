@@ -1,0 +1,2 @@
+Right click and save as text.
+Copy and paste text into excel file in appropiate sheet.

@@ -1,0 +1,31 @@
+Development 1-31-13
+D Gillespie
+
+'==============================================================================================
+1. Copy PMD_Tools from the following location;
+
+	P:\ILS\Parts_Manual_Development_(PMD)_Tools\
+
+2. Paste PMD_Tools to your program's folder, in the desired location for the parts manual information.
+
+	a.) Right click and change remove read only checkmark on all.
+	b.) Add and commit folder.
+
+3. Perform the following ; 
+	a.) Checkout https://mother.ils.local/svn/ILS/Parts_Manual_Development_(PMD)_Tools/Reports
+	b.) Cut the Reports checkout and paste in into the PMD_Tools folder inside the program folder.
+
+'======Note: Skip step 4 if SGML is not involved.======
+
+4. Perform the following steps for manuals that require SGML tagging;
+
+	a.) Checkout the following, if SGML is involved;
+		https://mother.ils.local/svn/ILS/Parts_Manual_Development_(PMD)_Tools/Arbortext_Tools
+		https://mother.ils.local/svn/ILS/Parts_Manual_Development_(PMD)_Tools/Cage_Codes
+
+	b.) Cut Cage_Codes checkout and paste inside the Arbortext_Tools checkout.
+
+	c.) Cut the Arbortext_Tools checkout and paste in into the PMD_Tools folder inside the program folder.
+
+
+5. The file structure is now ready and from here you may begin the process with the 036_to_Spreadsheet.

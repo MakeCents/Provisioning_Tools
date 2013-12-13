@@ -1,0 +1,21 @@
+Documentation: How everything works and what this tool does
+
+Utilities: Tools that are not dynamic or are ran on externally developed 036 files
+	NHA
+	QEI
+	PLISN re calculate (from and to)
+	LCN re calculate (from and to)
+	
+
+Export Tables: Tables for manuals
+	SGML
+		IPB
+		RPSTL: Not seen yet, so I can't develop it yet. (Maybe in xml?)
+	Word
+		IPB
+		RPSTL
+
+Manual development:  Design manual from this tool, unknowingly creating provisioning data.
+	IPB
+	RPSTL
+

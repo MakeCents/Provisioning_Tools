@@ -1,0 +1,1 @@
+Each folder includes a template named Figure

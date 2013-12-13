@@ -1,0 +1,25 @@
+<!-- Fragment document type declaration subset:
+Arbortext, Inc., 1988-2009, v.4002
+<!DOCTYPE DOC PUBLIC "-//USA-DOD//DTD 38807C-AV6D0P0//EN" [
+<!ENTITY figure1 SYSTEM "Figures\IPB\Figure.sgm">
+]>
+-->
+<?Pub Inc>
+<?Pub CX doc(docipb(front()body(single(ipbforeword()pl(>
+<plgrp><?Pub Tag atict:info tracking="off" ref="0" print="" color=""><?Pub Tag
+atict:user user="dgillespie" fullname="David Gillespie" color="#8000FF">
+<figure id="f002_f0001am">
+<title>Example</title>
+<subfig>
+<graphic boardno="eample1"></subfig>
+<subfig>
+<graphic boardno="example2"></subfig>
+<subfig>
+<graphic boardno="example3"></subfig><?Pub Caret -1></figure>
+<pl0tbl>&figure1;
+<useoncodelist>
+<term></term><def></def>
+<term></term><def></def></useoncodelist>
+</pl0tbl>
+</plgrp>
+<?Pub *0000000929 0>

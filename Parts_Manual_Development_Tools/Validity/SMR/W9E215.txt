@@ -1,0 +1,5 @@
+P,M,X
+A,B,C,F
+F,D
+D,F
+D,F,Z

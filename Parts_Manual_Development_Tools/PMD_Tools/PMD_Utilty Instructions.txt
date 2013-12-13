@@ -1,0 +1,27 @@
+2-12-13	Conception
+2-15-13	Updated processes to prompt less, fixed "possible" errors, added more inputs, 
+		added log abities. Added ability to only update IPB from figures, including SGML
+3-20-13 Log is kept in SVN now.
+
+D Gillespie
+'===============================================================================================
+Requirements:
+ - Excel 2007 +
+'===============================================================================================
+Open the PMD_Utility (Make sure you have a lock on everything in this folder.)
+1. A Userform will open if macros are enabled.
+	a.) If macros are not enabled or security is set too high, please see Dave G.
+2. Select in the first combobox what you want to do or check the boxes below.
+3. The second comobox gives you more options.
+4. The checkboxes may be changed, but they will not allow you to do somehting out of order.
+	a.) Please see Dave G. for errors or mistakes so that he may improve it.
+5. Once the options you would like to do are selected, click the PMD button.
+	a.) Message boxes will pop up if information is needed.	
+	b.) If it will not let you select the options you want, you may have to select other
+		options first.
+6. The PMD Utility will minimize and Excel will not be available until it finishes.
+7. If the file structure is not set up correctly, the process is designed to prompt you, as little
+	as possible, for locating files and folders.
+8. It will tell you when it is finished.
+9. A log will be updated of what actions were taken, when, and how long it took.
+	a.) This is very usefull for seeing what figues changed.

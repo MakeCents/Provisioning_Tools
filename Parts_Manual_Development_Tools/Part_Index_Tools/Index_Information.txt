@@ -1,0 +1,7 @@
+Index Tools
+D Gillespie
+'============================================================================================================
+The Excel file, PN-NSN Table Splitter is usted to split the index tables into two columns and sort correctly,
+	and used with the Word file, PN Index.
+
+The Word file, PN Index - Double Columns, is used after it has been sorted to split into two columns.

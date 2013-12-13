@@ -1,0 +1,12 @@
+<?Pub Lcl _version="1.6 (Build CPA16-1338) December 4, 2009"> : 
+ contype="desc"
+<chghistory></chghistory><doctype> : <doctype>
+<?Pub Lcl _version="1.6 (Build CPA16-1338) December 4, 2009" _divid="100" _parentid="0">
+<?Pub Lcl _divid="200" _parentid="100">
+_version="1.6 (Build CPA16-1338) December 4, 2009" _divid="100"
+<!DOCTYPE DOC PUBLIC "-//USA-DOD//DTD 38807C-AV6D0P0//EN" : <!DOCTYPE DOC PUBLIC "-//USA-DOD//DTD 38807C-AV8aD0P0//EN"
+<distrib type="other"> : <distrib type="a">
+<doctype> : <chghistory></chghistory><doctype>
+"></sub : "></graphic></sub
+"></fig : "></graphic></fig
+docstat="prelim" : docstat="formal"
