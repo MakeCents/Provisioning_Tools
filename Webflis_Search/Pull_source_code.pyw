@@ -20,7 +20,7 @@ with open('NSNtoParts.txt', 'r') as n:
 		if nsntopart[part] not in nsn:
 			WRITE.write('Search_Results/Errors/',nsn, part)
 			if nsn not in nsnText:
-				nsnText.append(nsn)
+				nsnText.append((part, nsn))
 		else:
 			WRITE.write('Search_Results/',nsn, part)
 	print len(nsnText)

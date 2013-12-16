@@ -1,5 +1,6 @@
 import sys
 import os
+
 sys.path.insert(0,'lib')
 
 l = [x for x in os.listdir(os.getcwd()) if x[-4:] == '.036']
@@ -14,8 +15,8 @@ import QTY
 import QEI
 from LINE import *
 import DIFFERENCE
+import PLEASE_WAIT
 
-CPN = ""
 Cal_NHA = []
 
 #Load will return a list from file 
@@ -23,6 +24,7 @@ Cal_NHA = []
 answers = LOAD.loadNames(l)
 lines = answers[0]
 originalFile = answers[1]
+
 
 def cal_QEI(line):
     '''C card line from 036 report
@@ -92,6 +94,7 @@ for line in lines:
             #calculate qei for this part
             qei = cal_QEI(line)
             QEI.add(cpn, qei)
+        
                
 def addCal_NHA(plisn):
     global Cal_NHA
@@ -101,12 +104,12 @@ def addCal_NHA(plisn):
         Cal_NHA.append(plisn)
     elif plisn != Cal_NHA[-1]:
         Cal_NHA.append(plisn)
-
+CPN = ""
 newlines = []
 for line in lines:
-    global CPN
     CPN = get_cpn(line, CPN)
     newlines.append(fixline(line))
+    
 
 
 ##Order of PLISNS
@@ -116,3 +119,21 @@ for line in lines:
 newFile = LOAD.Write(newlines)
 
 DIFFERENCE.Difference(originalFile, newFile)
+
+
+#shows that it is done
+clear = lambda: os.system('cls')
+indent = '\t' +'\t'
+def done():
+    clear()
+    print
+    print
+    print indent + 'DDDD       DD     DD    D   DDDDDD'
+    print indent + 'DD DDD   DD  DD   DDDD DD   DD'
+    print indent + 'DD DDD   DD  DD   DD DDDD   DDDD'
+    print indent + 'DD DDD   DD  DD   DD  DDD   DD'
+    print indent + 'DDDD       DD     DD   DD   DDDDDD'
+    print
+    raw_input(indent + '\t' +   'CLOSE THIS WINDOW')
+    print
+done()

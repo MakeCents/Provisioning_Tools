@@ -1,16 +1,20 @@
 def loadNames(l):
+    print
     answers = []
     for answer in l:
-        print '[{0}]  {1}'.format(l.index(answer), answer)
+        print '\t' + '[{0}]  {1}'.format(l.index(answer), answer)
     print
     for name in ['036']:
-        answer = str(raw_input('Please select the ' + name + ' file.   '))
+        answer = str(raw_input('\t' +'\t' +'Please select the ' + name + ' file.   '))
         if answer == '0':
             print "The file must be located in this folder and be of the .036 file extention"
             break
         else:
             #Load will return a fileName
-            return Load(l[int(answer)])
+            try:
+                return Load(l[int(answer)])
+            except:
+                return loadNames(l)
     return answers
 
 def Load(fName = ""):
@@ -33,7 +37,7 @@ def Load(fName = ""):
 def Write(writeList):
         print
         print
-        fName = str(raw_input("What name would you like to give this file?  "))
+        fName = str(raw_input('\t' +'\t' +"What name would you like to give this file?  "))
         error = True
         while error:
                 try:
