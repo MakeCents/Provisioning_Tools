@@ -27,11 +27,16 @@ for i in nfile:
 nfile.close()	
 DataBaseNSN = {}
 for nsn in l:
-    f = openfile("https://www.dlis.dla.mil/webflis/pub/pub_search.aspx?niin={0}&newpage=1".format(nsn))
+    f = openfile("https://www.dlis.dla.mil/webflis/pub/pub_search.aspx?niin={0}".format(nsn))
     p=', '.join([str(x) for x in [i for i in f]])
 
     parts = [i[2:34].strip() for i in re.findall(r'(">.{32}</font)',p)]
     cages = [i[7:12].strip() for i in re.findall(r'(blank">.{5}</a>)',p)]
     Database(nsn,parts, cages)
+
+for i in DataBaseNSN:
+    print  DataBaseNSN[i].parts
+    print DataBaseNSN[i].NSN
+
 
 
