@@ -1,0 +1,6 @@
+Each folder in this folder with be named by CAGE code. Then when searching for a part, start by CAGE code then open individual database.
+
+This should help quicken the search process. 
+
+
+Future code should be able to update and/or create database based on Cage codes.
