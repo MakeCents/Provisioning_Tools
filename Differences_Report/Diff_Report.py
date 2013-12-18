@@ -9,11 +9,11 @@ l.insert(0, "Not here")
 import LOAD
 import DIFFERENCE
 
-
+answers = LOAD.loadNames(l)
 
 if len(answers) == 2:
     DIFFERENCE.Difference(answers[0], answers[1])
 else:
     print 'Please try again'
     print
-    loadNames()
+    LOAD.loadNames()

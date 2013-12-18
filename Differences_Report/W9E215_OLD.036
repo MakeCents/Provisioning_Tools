@@ -1,4 +1,4 @@
-W9E215FA853309D0004      BEAR POWER UNIT      GB        449400    131010        
+W9E215FA853309D0004      BEAR POWER UNIT      GB        449400    131125        
 W9E215AAAA  A44940A034L092                        32  1GENERATOR SET,     0  01A
 W9E215AAAA     6115015364373    EA0252710300EA025271030000001   PBDDD  01 UA001B
 W9E215AAAA           00010000100000001                                       01C
@@ -1281,10 +1281,11 @@ W9E215ACQL  AARM N02000010000100000020                                       01C
 W9E215ACQL  ZP9                                                              01D
 W9E215ACQL                                                             C     01E
 W9E215ACQL  AAAACAM           00                                             01H
-W9E215ACQM  D75272C0V0913Z1                       32  3CLAMP,LOOP         0  01A
-W9E215ACQM  9B 5340004044169    EA0000000063EA000000006300001   PAFZZ  01 UA 01B
-W9E215ACQM  AARM N00100220002200000090                                       01C
+W9E215ACQM  D44940COV-1817                        32  3CLAMP,LOOP         0  01A
+W9E215ACQM     5340             EA0000000208EA000000020800001   XBFZZ  01 UA 01B
+W9E215ACQM  AARM N00100220002300000090                                       01C
 W9E215ACQM  ZP9                                                              01D
+W9E215ACQM                                                             A     01E
 W9E215ACQM  AAAACAO           00                                             01H
 W9E215ACQN  D75272C0V0513                         32  3CLAMP,LOOP         0  01A
 W9E215ACQN     5340004149846    EA0000000069EA000000006900001   PAFZZ  01 UA 01B
@@ -1293,7 +1294,7 @@ W9E215ACQN  ZP9                                                              01D
 W9E215ACQN  AAAACAQ           00                                             01H
 W9E215ACQQ  D449400821-6003-03                    32  3SCREW,ASSEMBLED    0  01A
 W9E215ACQQ     5305             EA0000000152EA000000015200001   PAFZZ  03 UA 01B
-W9E215ACQQ  AARM N00100350017400000060                                       01C
+W9E215ACQQ  AARM N00100350017200000060                                       01C
 W9E215ACQQ  ZP9                                                              01D
 W9E215ACQQ                                                             A     01E
 W9E215ACQQ  AAAACAS           00WASHER                                       01H
@@ -1807,7 +1808,7 @@ W9E215AC0J                                                             C     01E
 W9E215AC0J  AACBABA           00STRUCTURAL,VEHICLE                           01H
 W9E215AC0U  D449400821-6004-04                    32  3SCREW,CAP,HEXAGON  0  01A
 W9E215AC0U     5305             EA0000000180EA000000018000001   XBFZZ  01 UA 01B
-W9E215AC0U  ACV8 N00100040005000000060                                       01C
+W9E215AC0U  ACV8 N00100040005200000060                                       01C
 W9E215AC0U  ZP9                                                              01D
 W9E215AC0U                                                             A     01E
 W9E215AC0U  AACBABC           00HEAD                                         01H
@@ -4479,7 +4480,7 @@ W9E215AG1R  D06383PLT5H-C                         32  3STRAP,TIEDOWN,     0  01A
 W9E215AG1R     5975             EA0000000096HD000000960000001   XBFZZ  01 UA 01B
 W9E215AG1R  AGZB N00300050003700000050                                       01C
 W9E215AG1R  ZP9                                                              01D
-W9E215AG1R                                                             AY    01E
+W9E215AG1R                                                             A     01E
 W9E215AG1R  AACCQAO           00ELECTRICAL COMPONENTS                        01H
 W9E215AG12  C44940A034J974                        32  5INSULATION SHEET,  0  01A
 W9E215AG12     5970             EA0000003740EA000000374000001   MFFZZ  01 UA 01B
@@ -17012,7 +17013,7 @@ W9E215A19B                                                             A     01E
 W9E215A19B  AAUAQ             00                                             01H
 W9E215A19M  C449400821-6003-03                    32  3SCREW,ASSEMBLED    0  01A
 W9E215A19M     5305             EA0000000152EA000000015200001   PAFZZ  03 UA 01B
-W9E215A19M  A168 N0010010REF  00000060                     ACQQ              01C
+W9E215A19M  A168 N0010008REF  00000060                     ACQQ              01C
 W9E215A19M  ZP9                                                              01D
 W9E215A19M                                                             A     01E
 W9E215A19M  AAUAS             00WASHER                                       01H
@@ -17057,6 +17058,12 @@ W9E215A2BR  A168 N0010001REF  00000060                     ACQT              01C
 W9E215A2BR  ZP9                                                              01D
 W9E215A2BR                                                             A     01E
 W9E215A2BR  AAUBG             00HEAD                                         01H
+W9E215A2BW  C449400821-6004-04                    32  3SCREW,CAP,HEXAGON  0  01A
+W9E215A2BW     5305             EA0000000180EA000000018000001   XBFZZ  01 UA 01B
+W9E215A2BW  A2BR N0010002REF  00000060                     AC0U              01C
+W9E215A2BW  ZP9                                                              01D
+W9E215A2BW                                                             A     01E
+W9E215A2BW  AAUBH             00HEAD                                         01H
 W9E215A2B2  C44940A040J219                        32  3BRACKET,MOUNTING   0  01A
 W9E215A2B2     5340             EA0000030615EA000003061500001   XBFZZ  01 UA 01B
 W9E215A2B2  A168 N01000010000100000060                                       01C
@@ -17585,12 +17592,18 @@ W9E215A22D  A212 N01000010000100000060                                       01C
 W9E215A22D  ZP9                                                              01D
 W9E215A22D                                                             A     01E
 W9E215A22D  AAUEAAA           00                                             01H
-W9E215A22P  D3H4642334 1080 055                   32  3NUT,PLAIN,BLIND    0  01A
+W9E215A22J  E44940A047F326                        32  3BRACKET,MOUNTING   0  01A
+W9E215A22J     5340             EA          EA          00001   XAFZZ  01 UA 01B
+W9E215A22J  A22D N01000010000100000060                                       01C
+W9E215A22J  ZP9                                                              01D
+W9E215A22J                                                             A     01E
+W9E215A22J  AAUEAAAAA         00                                             01H
+W9E215A22P  E3H4642334 1080 055                   32  3NUT,PLAIN,BLIND    0  01A
 W9E215A22P     5310016170129    EA0000000051EA000000005100001   PAFZZ  01 UA 01B
-W9E215A22P  A212 N0040002REF  00000020                     ACQ1              01C
+W9E215A22P  A22D N0040002REF  00000020                     ACQ1              01C
 W9E215A22P  ZP9                                                              01D
 W9E215A22P                                                             A     01E
-W9E215A22P  AAUEAAC           00RIVET                                        01H
+W9E215A22P  AAUEAAAAC         00RIVET                                        01H
 W9E215A220  C44940A034R942                        32  3BRACKET,MOUNTING   0  01A
 W9E215A220     5340             EA0000002600EA000000260000001   XAFZZ  01 UA 01B
 W9E215A220  A168 N00300010000100000060                                       01C
@@ -18322,7 +18335,7 @@ W9E215A32U                                                             A     01E
 W9E215A32U  ABAAE             00NONMETALLIC                                  01H
 W9E215A325  C44940COV-1817                        32  3CLAMP,LOOP         0  01A
 W9E215A325     5340             EA0000000208EA000000020800001   XBFZZ  01 UA 01B
-W9E215A325  A31B N00100010000100000090                                       01C
+W9E215A325  A31B N00100010000100000090                     ACQM              01C
 W9E215A325  ZP9                                                              01D
 W9E215A325                                                             A     01E
 W9E215A325  ABAAG             00                                             01H
@@ -21641,6 +21654,11 @@ W9E215A878  A87X N00900020000200000100                                       01C
 W9E215A878  ZP9                                                              01D
 W9E215A878                                                             A     01E
 W9E215A878  ABMAEACAA         00RECEPTACLE,ELECTRICAL                        01H
+W9E215A88D  E06383PLT2M                           32  1STRAP,TIEDOWN,     0  01A
+W9E215A88D     5975012238533    EA0000000003PG000000028000001   PAFZZ  01 UA 01B
+W9E215A88D  A87X N00300010000200000050                                       01C
+W9E215A88D  ZP9                                                              01D
+W9E215A88D  ABMAEACAB         00ELECTRICAL COMPONENTS                        01H
 W9E215A88J  E007791-794610-2                      32  1CONTACT,ELECTRICAL 0  01A
 W9E215A88J     5999             EA0000000307EA000000030700001   XBFZZ  01 UG 01B
 W9E215A88J  A87X N01000280039700000100                                       01C
@@ -21670,6 +21688,11 @@ W9E215A89R  A89G N00900020000200000100                                       01C
 W9E215A89R  ZP9                                                              01D
 W9E215A89R                                                             A     01E
 W9E215A89R  ABMAEAEAA         00RECEPTACLE,ELECTRICAL                        01H
+W9E215A89W  E06383PLT2M                           32  1STRAP,TIEDOWN,     0  01A
+W9E215A89W     5975012238533    EA0000000003PG000000028000001   PAFZZ  01    01B
+W9E215A89W  A89G N0030001REF  00000050                     A88D              01C
+W9E215A89W  ZP9                                                              01D
+W9E215A89W  ABMAEACAB         00ELECTRICAL COMPONENTS                        01H
 W9E215A892  E007791-794610-2                      32  1CONTACT,ELECTRICAL 0  01A
 W9E215A892     5999             EA0000000307EA000000030700001   XBFZZ  01 UG 01B
 W9E215A892  A89G N0100044REF  00000100                     A88J              01C
@@ -22519,6 +22542,12 @@ W9E215BAL0  BAK2 N0010004REF  00000060                     A166              01C
 W9E215BAL0  ZP9                                                              01D
 W9E215BAL0                                                             A     01E
 W9E215BAL0  ABOAE             00HEAD                                         01H
+W9E215BAL5  C37GZ4MFG 8356                        32  3GASKET             9  01A
+W9E215BAL5     5330             IN0000000012FT000000014640833   PCFZZ  02 UA 01B
+W9E215BAL5  BAK2 N0380012REF  00000200                     ACR6              01C
+W9E215BAL5  ZP9                                                              01D
+W9E215BAL5                                                             A     01E
+W9E215BAL5  ABOAF             00                                             01H
 W9E215BAMB  C44940A034H699                        32  1SWITCH ASSEMBLY    0  01A
 W9E215BAMB     5930             EA0000047654EA000004765400001   XBFZZ  01 UA 01B
 W9E215BAMB  BAK2 N01000020000200000100                                       01C
@@ -26191,12 +26220,6 @@ W9E215BGEJ  BGCP N05000010000100000001                                       01C
 W9E215BGEJ  ZP9                                                              01D
 W9E215BGEJ                                                             A     01E
 W9E215BGEJ  ABUAK             00                                             01H
-W9E215BGEU  C44940A040J116                        32  3LABEL              0  01A
-W9E215BGEU     7690             EA0000001375EA000000137500001   XBFZZ  01 UA 01B
-W9E215BGEU  BGCP N05000010000100000001                                       01C
-W9E215BGEU  ZP9                                                              01D
-W9E215BGEU                                                             A     01E
-W9E215BGEU  ABUAM             00                                             01H
 W9E215BGE5  C44940A043H323                        32  3LABEL              0  01A
 W9E215BGE5     7690             EA0000001475EA000000147500001   XBFZZ  01 UA 01B
 W9E215BGE5  BGCP N05000010000100000001                                       01C
