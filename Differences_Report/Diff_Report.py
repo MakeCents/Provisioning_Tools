@@ -12,7 +12,7 @@ import DIFFERENCE
 answers = LOAD.loadNames(l)
 
 if len(answers) == 2:
-    DIFFERENCE.Difference(answers[0], answers[1])
+    DIFFERENCE.Difference(answers[1], answers[0])
 else:
     print 'Please try again'
     print

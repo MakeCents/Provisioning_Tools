@@ -145,7 +145,7 @@ def Difference(originalFile, newFile):
                 else:
                         PLISNs[i[6:11].strip()].news(i)
         printOrder = []
-        with open('_'.join(['Differences_',originalFile,newFile]) +'.txt', 'w') as report:
+        with open('_'.join(['Differences_',newFile,'-',originalFile]) +'.txt', 'w') as report:
                 for i in PLISNs:
                         printOrder.append(PLISNs[i])
                 printOrder.sort(key=lambda x: x.order)
