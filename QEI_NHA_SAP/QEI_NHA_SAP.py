@@ -15,7 +15,6 @@ import QTY
 import QEI
 from LINE import *
 import DIFFERENCE
-import PLEASE_WAIT
 
 Cal_NHA = []
 
