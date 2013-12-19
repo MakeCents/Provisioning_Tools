@@ -67,34 +67,11 @@ def fixline(line):
         if ind == 'A' or ind == None:
             nha = ("     ", True)
         else:
-            nha = Ind_NHA(ind) 
+            nha = Ind_NHA(ind)
         if nha[1]:
-            
             addCal_NHA(plisn)
         line = line[:12] + nha[0] + line[17:25] + qei + line[30:59] +  SAP.get(CPN, plisn) + line[64:]
     return line
-
-for line in lines:
-    if len(line)>80 and line[-2] != " ":
-        #This keeps the PLISNs in order for later
-        if line[-4:-1] == '01A':
-            plisn = line[6:11].strip()
-            cpn = line[13:50].strip()
-            PLISNS.add(plisn)
-            SAP.pp(cpn,plisn)
-            NHA.ind(line[12], plisn)
-        elif line[-4:-1] == '01C':
-            nha = line[12:17].strip()
-            sap = line[59:64].strip()
-            qty = int(line[21:25])
-            SAP.add(plisn, sap)
-            NHA.add(plisn, nha)
-            QTY.add(plisn, qty)
-            #calculate qei for this part
-            qei = cal_QEI(line)
-            QEI.add(cpn, qei)
-        
-               
 def addCal_NHA(plisn):
     global Cal_NHA
     if plisn == None:
@@ -103,13 +80,44 @@ def addCal_NHA(plisn):
         Cal_NHA.append(plisn)
     elif plisn != Cal_NHA[-1]:
         Cal_NHA.append(plisn)
+        
+for line in lines:
+    if len(line)>80 and line[-2] != " ":
+        #This keeps the PLISNs in order for later
+        plisn = line[6:11].strip()
+        if line[-4:-1] == '01A':
+            cpn = line[13:50].strip()
+            PLISNS.add(plisn)
+            SAP.pp(cpn,plisn)
+            NHA.ind(line[12], plisn)
+        elif line[-4:-1] == '01C':
+            #nha = line[12:17].strip()
+            sap = line[59:64].strip()
+            qty = int(line[21:25])
+            SAP.add(plisn, sap)
+            QTY.add(plisn, qty)
+            #fix NHA
+            ind = NHA.IND[plisn]
+            if Cal_NHA == []:
+                addCal_NHA(plisn)
+            if ind == 'A' or ind == None:
+                nha = ("     ", True)
+            else:
+                nha = Ind_NHA(ind)
+            if nha[1]:
+                addCal_NHA(plisn)
+            NHA.add(plisn, nha[0].strip())
+            #calculate qei for this part
+            qei = cal_QEI(line)
+            QEI.add(cpn, qei)
+        
+               
+
 CPN = ""
 newlines = []
 for line in lines:
     CPN = get_cpn(line, CPN)
     newlines.append(fixline(line))
-    
-
 
 ##Order of PLISNS
 #PLISNS.PLISNS

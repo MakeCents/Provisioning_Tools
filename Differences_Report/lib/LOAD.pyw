@@ -4,7 +4,7 @@ def loadNames(l):
     for answer in l:
         print '[{0}]  {1}'.format(l.index(answer), answer)
     print
-    for name in ['first', 'second']:
+    for name in ['new', 'old']:
         answer = str(raw_input('Please select the ' + name + ' file.   '))
         if answer == '0':
             print "The file must be located in this folder and be of the .036 file extention"

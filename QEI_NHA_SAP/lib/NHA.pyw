@@ -1,10 +1,10 @@
 NHA = {}
-AllNHA = []
+AllNHA = set([])
 IND = {}
 
 def add(PLISN, nha):
     NHA[PLISN] = nha
-    AllNHA.append(nha)
+    AllNHA.add(nha)
 
 def ind(IC, plisn):
 	IND[plisn] = IC

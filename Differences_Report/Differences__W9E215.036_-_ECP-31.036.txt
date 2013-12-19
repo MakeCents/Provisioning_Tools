@@ -1,9 +1,23 @@
 W9E215ACR6 M             08270                                               01C
 W9E215AK25 M      0800-0051-00                                               01A
 W9E215AMMR D 655638401119-128-00                                             01A
-W9E215AUBW M                                                    PBFZZ        01B
+W9E215ARA0 M                                                               U 01B
+W9E215ARA0 M             00199                                               01C
+W9E215ARRV  D0Y3H333115                           32  1WASHER,FLAT        0  01A
+W9E215ARRV   15434304232900                       52                         02A
+W9E215ARRV  9B 5310010652596    EA0000000006EA000000000600001   PAFZZ  01 UU 01B
+W9E215ARRV  ARRG N0040006REF  00000060                     ARA0              01C
+W9E215ARRV  ZP9                                                              01D
+W9E215ARRV                                                             A     01E
+W9E215ARRV  AAMAYAB           00                                             01H
+W9E215ASSU M                                                               U 01B
+W9E215ASS5 M                                                               U 01B
+W9E215AUBW M                                                    PBFZZ      U 01B
 W9E215AUY0 M             00004                                               01C
 W9E215AVPH M                                                    PBFZZ        01B
+W9E215AW1R M                                                               U 01B
+W9E215AXND M                                                               U 01B
+W9E215AYX2 M                                                               U 01B
 W9E215AYZY M                                                    PBFZZ        01B
 W9E215A2BW GA2BR                                                             01C
 W9E215A2BW MA168                                                             01C
