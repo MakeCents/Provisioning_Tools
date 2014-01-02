@@ -81,6 +81,8 @@ def Difference(originalFile, newFile):
                         self.compared = self.compared[:-1]
 
         def CompareCards(old, new):
+                new = new.upper()
+                old = old.upper()
                 beginCard = new[:11]
                 endCard = new[77:]
                 mcard = ""
@@ -128,6 +130,7 @@ def Difference(originalFile, newFile):
                 return length * " "
 
         def CheckCard(param, card):
+                card = card.upper()
                 return card[param[0]:param[1]]
 
         PLISNs = {}

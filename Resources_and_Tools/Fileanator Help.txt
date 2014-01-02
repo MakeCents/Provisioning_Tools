@@ -1,0 +1,14 @@
+3-7-13	Conception
+
+D Gillespie
+'=========================================================================================================
+
+Fileanator help.
+
+This is an extremely invasive tool. Please do not use it if you do not understand what it does.
+
+This tool will batch convert any text base file and rename or move any file from a folder or sub-folders
+	to any folder or subfolders. It can also append all files to a single file.
+
+'=========================================================================================================
+Future: I may add the ability to make a copy of a file and change the extention of that file.

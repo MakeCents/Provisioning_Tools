@@ -93,7 +93,10 @@ for line in lines:
         elif line[-4:-1] == '01C':
             #nha = line[12:17].strip()
             sap = line[59:64].strip()
-            qty = int(line[21:25])
+            if line[21:25].strip() != "":
+                qty = int(line[21:25])
+            else:
+                qty = 0
             SAP.add(plisn, sap)
             QTY.add(plisn, qty)
             #fix NHA
